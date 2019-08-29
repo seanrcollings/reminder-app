@@ -1,0 +1,30 @@
+<Label>:
+    font_size: 30
+
+<Reminder>:
+    orientation: 'horizontal'
+    text: ""
+    value: 0
+    Label:
+        text: root.text
+    Label:
+        text: str(root.value)
+    Button:
+        text: 'X'
+        on_press: root.test()
+
+<ReminderGrid>:
+    orientation: 'vertical'
+    recycle: recycle
+    Label:
+        text: 'Reminder App'
+        color: 1,0,0,1
+    RecycleView:
+        viewclass: 'Reminder'
+        id: recycle
+        RecycleBoxLayout:
+            default_size: None, dp(30)
+            default_size_hint: 1, None
+            size_hint_y: None
+            height: self.minimum_height
+            orientation: 'vertical'

@@ -1,0 +1,1284 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+1_skeleton.py	../env/share/kivy-examples/guide/firstwidget/1_skeleton.py	1;"	kind:file	line:1
+2_print_touch.py	../env/share/kivy-examples/guide/firstwidget/2_print_touch.py	1;"	kind:file	line:1
+3_draw_ellipse.py	../env/share/kivy-examples/guide/firstwidget/3_draw_ellipse.py	1;"	kind:file	line:1
+4_draw_line.py	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	1;"	kind:file	line:1
+5_random_colors.py	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	1;"	kind:file	line:1
+6_button.py	../env/share/kivy-examples/guide/firstwidget/6_button.py	1;"	kind:file	line:1
+AccordionApp	../env/share/kivy-examples/widgets/accordion_1.py	/^class AccordionApp(App):$/;"	kind:class	line:6
+AddGestureSettings	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class AddGestureSettings(MultistrokeSettingsContainer):$/;"	kind:class	line:161
+AndroidApplicationRunner	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^class AndroidApplicationRunner(UnixApplicationRunner):$/;"	kind:class	line:18
+AnimatedButton	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^class AnimatedButton(Label):$/;"	kind:class	line:12
+AudioApp	../env/share/kivy-examples/audio/main.py	/^class AudioApp(App):$/;"	kind:class	line:57
+AudioBackground	../env/share/kivy-examples/audio/main.py	/^class AudioBackground(BoxLayout):$/;"	kind:class	line:53
+AudioButton	../env/share/kivy-examples/audio/main.py	/^class AudioButton(Button):$/;"	kind:class	line:26
+BaseShape	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^class BaseShape(Widget):$/;"	kind:class	line:54
+BezierTest	../env/share/kivy-examples/canvas/bezier.py	/^class BezierTest(FloatLayout):$/;"	kind:class	line:18
+BlehApp	../env/share/kivy-examples/kv/builder_template.py	/^class BlehApp(App):$/;"	kind:class	line:15
+BoundedLabel	../env/share/kivy-examples/widgets/textalign.py	/^class BoundedLabel(Label):$/;"	kind:class	line:7
+BubbleShowcase	../env/share/kivy-examples/widgets/bubble_test.py	/^class BubbleShowcase(FloatLayout):$/;"	kind:class	line:32
+CATALOG_ROOT	../env/share/kivy-examples/demo/kivycatalog/main.py	/^CATALOG_ROOT = os.path.dirname(__file__)$/;"	kind:variable	line:35
+CONTAINER_CLASSES	../env/share/kivy-examples/demo/kivycatalog/main.py	/^CONTAINER_CLASSES = [c[:-3] for c in os.listdir(CONTAINER_KVS)$/;"	kind:variable	line:43
+CONTAINER_KVS	../env/share/kivy-examples/demo/kivycatalog/main.py	/^CONTAINER_KVS = os.path.join(CATALOG_ROOT, 'container_kvs')$/;"	kind:variable	line:42
+CalcGridLayout	../calc.py	/^class CalcGridLayout(GridLayout):$/;"	kind:class	line:6
+CalculatorApp	../calc.py	/^class CalculatorApp(App):$/;"	kind:class	line:15
+CameraApp	../env/share/kivy-examples/widgets/camera.py	/^class CameraApp(App):$/;"	kind:class	line:27
+CameraClick	../env/share/kivy-examples/camera/main.py	/^class CameraClick(BoxLayout):$/;"	kind:class	line:41
+Catalog	../env/share/kivy-examples/demo/kivycatalog/main.py	/^class Catalog(BoxLayout):$/;"	kind:class	line:95
+CenteredAsyncImage	../env/share/kivy-examples/widgets/asyncimage.py	/^class CenteredAsyncImage(AsyncImage):$/;"	kind:class	line:23
+CircleApp	../env/share/kivy-examples/canvas/circle.py	/^class CircleApp(App):$/;"	kind:class	line:79
+Clip	../env/share/kivy-examples/miscellaneous/clipboard.py	/^class Clip(BoxLayout):$/;"	kind:class	line:43
+CloseableHeader	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class CloseableHeader(TabbedPanelHeader):$/;"	kind:class	line:19
+CodeInputTest	../env/share/kivy-examples/widgets/codeinput.py	/^class CodeInputTest(App):$/;"	kind:class	line:119
+CodeInputWithBindings	../env/share/kivy-examples/widgets/codeinput.py	/^class CodeInputWithBindings(EmacsBehavior, CodeInput):$/;"	kind:class	line:111
+Collisions	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^class Collisions(App):$/;"	kind:class	line:321
+ColorSelector	../env/share/kivy-examples/widgets/colorpicker.py	/^class ColorSelector(Popup):$/;"	kind:class	line:134
+ColorusageApp	../env/share/kivy-examples/widgets/colorusage.py	/^class ColorusageApp(App):$/;"	kind:class	line:56
+ComparisonWidget	../env/share/kivy-examples/widgets/effectwidget.py	/^class ComparisonWidget(EffectWidget):$/;"	kind:class	line:25
+ComparisonWidget	../env/share/kivy-examples/widgets/effectwidget.py	/^class ComparisonWidget(EffectWidget):$/;"	kind:class	line:29
+CompassApp	../env/share/kivy-examples/android/compass/main.py	/^class CompassApp(App):$/;"	kind:class	line:36
+ConfigApp	../env/share/kivy-examples/application/app_with_config.py	/^class ConfigApp(App):$/;"	kind:class	line:25
+Container	../env/share/kivy-examples/demo/kivycatalog/main.py	/^class Container(BoxLayout):$/;"	kind:class	line:47
+Controller	../env/share/kivy-examples/guide/designwithkv/main.py	/^class Controller(FloatLayout):$/;"	kind:class	line:9
+ControllerApp	../env/share/kivy-examples/guide/designwithkv/main.py	/^class ControllerApp(App):$/;"	kind:class	line:22
+CoverImage	../env/share/kivy-examples/cover/cover_image.py	/^class CoverImage(CoverBehavior, Image):$/;"	kind:class	line:7
+CoverVideo	../env/share/kivy-examples/cover/cover_video.py	/^class CoverVideo(CoverBehavior, Video):$/;"	kind:class	line:7
+CustomLayout	../env/share/kivy-examples/includes/main.py	/^class CustomLayout(BoxLayout):$/;"	kind:class	line:10
+CustomPopup	../env/share/kivy-examples/widgets/popup_with_kv.py	/^class CustomPopup(Popup):$/;"	kind:class	line:21
+CustomScreen	../env/share/kivy-examples/widgets/screenmanager.py	/^class CustomScreen(Screen):$/;"	kind:class	line:92
+CustomWidget	../custom_widget.py	/^class CustomWidget(Widget):$/;"	kind:class	line:6
+CustomWidgetApp	../custom_widget.py	/^class CustomWidgetApp(App):$/;"	kind:class	line:9
+Demo	../env/share/kivy-examples/widgets/boxlayout_poshint.py	/^class Demo(GridLayout):$/;"	kind:class	line:44
+DemoApp	../env/share/kivy-examples/widgets/boxlayout_poshint.py	/^class DemoApp(App):$/;"	kind:class	line:48
+DemoBox	../env/share/kivy-examples/text/pango_demo.py	/^class DemoBox(F.ButtonBehavior, F.BoxLayout):$/;"	kind:class	line:8
+DemoEffect	../env/share/kivy-examples/widgets/effectwidget2.py	/^class DemoEffect(EffectWidget):$/;"	kind:class	line:24
+DemoGesture	../env/share/kivy-examples/gestures/gesture_board.py	/^class DemoGesture(App):$/;"	kind:class	line:89
+DrawRoundedRectanglesApp	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^class DrawRoundedRectanglesApp(App):$/;"	kind:class	line:110
+DropApp	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^class DropApp(App):$/;"	kind:class	line:25
+DropFile	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^class DropFile(Button):$/;"	kind:class	line:7
+EchoClient	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^class EchoClient(protocol.Protocol):$/;"	kind:class	line:12
+EchoClientFactory	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^class EchoClientFactory(protocol.ClientFactory):$/;"	kind:class	line:20
+EchoServer	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^class EchoServer(protocol.Protocol):$/;"	kind:class	line:10
+EchoServerFactory	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^class EchoServerFactory(protocol.Factory):$/;"	kind:class	line:17
+EditSettingPopup	../env/share/kivy-examples/demo/multistroke/settings.py	/^class EditSettingPopup(Popup):$/;"	kind:class	line:39
+Editor	../env/share/kivy-examples/RST_Editor/main.py	/^class Editor(App):$/;"	kind:class	line:54
+EffectApp	../env/share/kivy-examples/widgets/effectwidget.py	/^class EffectApp(App):$/;"	kind:class	line:195
+EffectSpinner	../env/share/kivy-examples/widgets/effectwidget.py	/^class EffectSpinner(Spinner):$/;"	kind:class	line:33
+Environment	../env/share/kivy-examples/android/takepicture/main.py	/^Environment = autoclass('android.os.Environment')$/;"	kind:variable	line:37
+ExampleApp	../env/share/kivy-examples/miscellaneous/two_panes.py	/^class ExampleApp(App):$/;"	kind:class	line:42
+EzsApp	../env/share/kivy-examples/container/main.py	/^class EzsApp(App):$/;"	kind:class	line:27
+FIRE	../env/share/kivy-examples/miscellaneous/joystick.py	/^    FIRE = (2, 5)$/;"	kind:variable	line:13
+FboFloatLayout	../env/share/kivy-examples/canvas/fbo_canvas.py	/^class FboFloatLayout(FloatLayout):$/;"	kind:class	line:23
+FboFloatLayout	../env/share/kivy-examples/widgets/fbowidget.py	/^class FboFloatLayout(FloatLayout):$/;"	kind:class	line:42
+FntSpinnerOption	../env/share/kivy-examples/widgets/unicode_textinput.py	/^class FntSpinnerOption(SpinnerOption):$/;"	kind:class	line:115
+Fnt_SpinnerOption	../env/share/kivy-examples/widgets/codeinput.py	/^class Fnt_SpinnerOption(SpinnerOption):$/;"	kind:class	line:82
+FocusApp	../env/share/kivy-examples/widgets/focus_behavior.py	/^class FocusApp(App):$/;"	kind:class	line:56
+FocusBoxLayout	../env/share/kivy-examples/widgets/focus_behavior.py	/^class FocusBoxLayout(FocusWithColor, BoxLayout):$/;"	kind:class	line:52
+FocusGridLayout	../env/share/kivy-examples/widgets/focus_behavior.py	/^class FocusGridLayout(FocusWithColor, GridLayout):$/;"	kind:class	line:48
+FocusLabel	../env/share/kivy-examples/widgets/focus_behavior.py	/^class FocusLabel(FocusWithColor, Label):$/;"	kind:class	line:31
+FocusWithColor	../env/share/kivy-examples/widgets/focus_behavior.py	/^class FocusWithColor(FocusBehavior):$/;"	kind:class	line:9
+GardenTool	../env/bin/garden	/^class GardenTool(object):$/;"	kind:class	line:37
+GestureBoard	../env/share/kivy-examples/gestures/gesture_board.py	/^class GestureBoard(FloatLayout):$/;"	kind:class	line:21
+GestureDatabase	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^class GestureDatabase(GridLayout):$/;"	kind:class	line:80
+GestureDatabaseItem	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^class GestureDatabaseItem(FloatLayout):$/;"	kind:class	line:28
+GestureExportPopup	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^class GestureExportPopup(Popup):$/;"	kind:class	line:20
+GestureHistoryManager	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class GestureHistoryManager(GridLayout):$/;"	kind:class	line:26
+GestureImportPopup	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^class GestureImportPopup(Popup):$/;"	kind:class	line:24
+GestureSettingsForm	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class GestureSettingsForm(BoxLayout):$/;"	kind:class	line:165
+GestureVisualizer	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class GestureVisualizer(Widget):$/;"	kind:class	line:217
+HOLD	../env/share/kivy-examples/miscellaneous/joystick.py	/^    HOLD = ObjectProperty(None)$/;"	kind:variable	line:21
+Hardware	../env/share/kivy-examples/android/compass/main.py	/^Hardware = autoclass('org.renpy.android.Hardware')$/;"	kind:variable	line:33
+HelloKivyApp	../hello_kivy.py	/^class HelloKivyApp(App):$/;"	kind:class	line:5
+InformationPopup	../env/share/kivy-examples/demo/multistroke/helpers.py	/^class InformationPopup(Popup):$/;"	kind:class	line:21
+Intent	../env/share/kivy-examples/android/takepicture/main.py	/^Intent = autoclass('android.content.Intent')$/;"	kind:variable	line:34
+JoystickApp	../env/share/kivy-examples/miscellaneous/joystick.py	/^class JoystickApp(App):$/;"	kind:class	line:77
+KeyboardDemo	../env/share/kivy-examples/keyboard/main.py	/^class KeyboardDemo(App):$/;"	kind:class	line:214
+KeyboardScreen	../env/share/kivy-examples/keyboard/main.py	/^class KeyboardScreen(Screen):$/;"	kind:class	line:153
+KinectDepth	../env/share/kivy-examples/kinect/kinectviewer.py	/^class KinectDepth(Thread):$/;"	kind:class	line:146
+KinectViewer	../env/share/kivy-examples/kinect/kinectviewer.py	/^class KinectViewer(Widget):$/;"	kind:class	line:168
+KinectViewerApp	../env/share/kivy-examples/kinect/kinectviewer.py	/^class KinectViewerApp(App):$/;"	kind:class	line:227
+KivyCatalogApp	../env/share/kivy-examples/demo/kivycatalog/main.py	/^class KivyCatalogApp(App):$/;"	kind:class	line:180
+KivyRenderTextInput	../env/share/kivy-examples/demo/kivycatalog/main.py	/^class KivyRenderTextInput(CodeInput):$/;"	kind:class	line:77
+KvApp	../env/share/kivy-examples/kv/kvrun.py	/^class KvApp(App):$/;"	kind:class	line:7
+LabelMipmapTest	../env/share/kivy-examples/widgets/image_mipmap.py	/^class LabelMipmapTest(App):$/;"	kind:class	line:18
+LabelMipmapTest	../env/share/kivy-examples/widgets/label_mipmap.py	/^class LabelMipmapTest(App):$/;"	kind:class	line:17
+LabelOnBackground	../env/share/kivy-examples/canvas/repeat_texture.py	/^class LabelOnBackground(Label):$/;"	kind:class	line:50
+LabelTextSizeTest	../env/share/kivy-examples/widgets/label_text_size.py	/^class LabelTextSizeTest(App):$/;"	kind:class	line:38
+LabelTextureSizeExample	../env/share/kivy-examples/widgets/label_sizing.py	/^class LabelTextureSizeExample(App):$/;"	kind:class	line:148
+LabelWithMarkup	../env/share/kivy-examples/widgets/label_with_markup.py	/^class LabelWithMarkup(App):$/;"	kind:class	line:15
+LineBezier	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineBezier(Widget):$/;"	kind:class	line:163
+LineCircle1	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineCircle1(Widget):$/;"	kind:class	line:143
+LineCircle2	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineCircle2(Widget):$/;"	kind:class	line:147
+LineCircle3	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineCircle3(Widget):$/;"	kind:class	line:151
+LineCircle4	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineCircle4(Widget):$/;"	kind:class	line:155
+LineEllipse1	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineEllipse1(Widget):$/;"	kind:class	line:131
+LineEllipse2	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineEllipse2(Widget):$/;"	kind:class	line:135
+LineEllipse3	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineEllipse3(Widget):$/;"	kind:class	line:139
+LineExtendedApp	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineExtendedApp(App):$/;"	kind:class	line:167
+LinePlayground	../env/share/kivy-examples/canvas/lines.py	/^class LinePlayground(FloatLayout):$/;"	kind:class	line:227
+LineRectangle	../env/share/kivy-examples/canvas/lines_extended.py	/^class LineRectangle(Widget):$/;"	kind:class	line:159
+Listener	../env/share/kivy-examples/miscellaneous/joystick.py	/^class Listener(Widget):$/;"	kind:class	line:11
+LoadDialog	../env/share/kivy-examples/RST_Editor/main.py	/^class LoadDialog(FloatLayout):$/;"	kind:class	line:10
+LoadDialog	../env/share/kivy-examples/widgets/codeinput.py	/^class LoadDialog(Popup):$/;"	kind:class	line:86
+LoadDialog	../env/share/kivy-examples/widgets/unicode_textinput.py	/^class LoadDialog(FloatLayout):$/;"	kind:class	line:119
+LoginScreen	../kivy_tutorial.py	/^class LoginScreen(GridLayout):$/;"	kind:class	line:6
+MAX_PERMUTE_STROKES	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^MAX_PERMUTE_STROKES = 3$/;"	kind:variable	line:21
+MTL	../env/share/kivy-examples/3Drendering/objloader.py	/^def MTL(filename):$/;"	kind:function	line:132
+Main	../env/share/kivy-examples/canvas/bezier.py	/^class Main(App):$/;"	kind:class	line:90
+MainApp	../env/share/kivy-examples/cover/cover_image.py	/^class MainApp(App):$/;"	kind:class	line:18
+MainApp	../env/share/kivy-examples/cover/cover_video.py	/^class MainApp(App):$/;"	kind:class	line:24
+MainApp	../env/share/kivy-examples/widgets/colorpicker.py	/^class MainApp(App):$/;"	kind:class	line:209
+MainMenu	../env/share/kivy-examples/demo/multistroke/main.py	/^class MainMenu(GridLayout):$/;"	kind:class	line:36
+MainRootWidget	../env/share/kivy-examples/widgets/colorpicker.py	/^class MainRootWidget(BoxLayout):$/;"	kind:class	line:196
+MainWidget	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^class MainWidget(Widget):$/;"	kind:class	line:26
+MainWidget	../env/share/kivy-examples/miscellaneous/two_panes.py	/^class MainWidget(BoxLayout):$/;"	kind:class	line:38
+MediaStore	../env/share/kivy-examples/android/takepicture/main.py	/^MediaStore = autoclass('android.provider.MediaStore')$/;"	kind:variable	line:35
+MeshBallApp	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^class MeshBallApp(App):$/;"	kind:class	line:67
+MeshData	../env/share/kivy-examples/3Drendering/objloader.py	/^class MeshData(object):$/;"	kind:class	line:1
+MeshShape	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^class MeshShape(BaseShape):$/;"	kind:class	line:236
+MeshTestApp	../env/share/kivy-examples/canvas/mesh.py	/^class MeshTestApp(App):$/;"	kind:class	line:19
+ModeScreen	../env/share/kivy-examples/keyboard/main.py	/^class ModeScreen(Screen):$/;"	kind:class	line:109
+MultistrokeApp	../env/share/kivy-examples/demo/multistroke/main.py	/^class MultistrokeApp(App):$/;"	kind:class	line:44
+MultistrokeAppSettings	../env/share/kivy-examples/demo/multistroke/main.py	/^class MultistrokeAppSettings(MultistrokeSettingsContainer):$/;"	kind:class	line:40
+MultistrokeSettingBoolean	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingBoolean(MultistrokeSettingItem):$/;"	kind:class	line:30
+MultistrokeSettingItem	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingItem(GridLayout):$/;"	kind:class	line:20
+MultistrokeSettingSlider	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingSlider(MultistrokeSettingItem):$/;"	kind:class	line:48
+MultistrokeSettingString	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingString(MultistrokeSettingItem):$/;"	kind:class	line:35
+MultistrokeSettingTitle	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingTitle(Label):$/;"	kind:class	line:25
+MultistrokeSettingsContainer	../env/share/kivy-examples/demo/multistroke/settings.py	/^class MultistrokeSettingsContainer(GridLayout):$/;"	kind:class	line:16
+MultitextureApp	../env/share/kivy-examples/canvas/multitexture.py	/^class MultitextureApp(App):$/;"	kind:class	line:103
+MultitextureLayout	../env/share/kivy-examples/canvas/multitexture.py	/^class MultitextureLayout(FloatLayout):$/;"	kind:class	line:96
+MultitextureWidget	../env/share/kivy-examples/canvas/multitexture.py	/^class MultitextureWidget(Widget):$/;"	kind:class	line:61
+MutableTextInput	../env/share/kivy-examples/tutorials/notes/final/main.py	/^class MutableTextInput(FloatLayout):$/;"	kind:class	line:22
+MyApp	../env/share/kivy-examples/guide/quickstart/main.py	/^class MyApp(App):$/;"	kind:class	line:8
+MyApp	../env/share/kivy-examples/settings/main.py	/^class MyApp(App):$/;"	kind:class	line:51
+MyKeyboardListener	../env/share/kivy-examples/widgets/keyboardlistener.py	/^class MyKeyboardListener(Widget):$/;"	kind:class	line:8
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/1_skeleton.py	/^class MyPaintApp(App):$/;"	kind:class	line:9
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/2_print_touch.py	/^class MyPaintApp(App):$/;"	kind:class	line:10
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/3_draw_ellipse.py	/^class MyPaintApp(App):$/;"	kind:class	line:15
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	/^class MyPaintApp(App):$/;"	kind:class	line:19
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	/^class MyPaintApp(App):$/;"	kind:class	line:21
+MyPaintApp	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^class MyPaintApp(App):$/;"	kind:class	line:22
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/1_skeleton.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:5
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/2_print_touch.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:5
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/3_draw_ellipse.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:6
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:6
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:7
+MyPaintWidget	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^class MyPaintWidget(Widget):$/;"	kind:class	line:8
+MyScatter	../env/share/kivy-examples/widgets/scatter.py	/^class MyScatter(Scatter):$/;"	kind:class	line:5
+MySettingsWithTabbedPanel	../env/share/kivy-examples/settings/main.py	/^class MySettingsWithTabbedPanel(SettingsWithTabbedPanel):$/;"	kind:class	line:104
+NAMESPACES	../env/bin/rst2odt_prepstyles.py	/^NAMESPACES = {$/;"	kind:variable	line:22
+NOTES	../env/share/kivy-examples/audio/pitch.py	/^NOTES = ($/;"	kind:variable	line:11
+NoteApp	../env/share/kivy-examples/tutorials/notes/final/main.py	/^class NoteApp(App):$/;"	kind:class	line:85
+NoteListItem	../env/share/kivy-examples/tutorials/notes/final/main.py	/^class NoteListItem(BoxLayout):$/;"	kind:class	line:65
+NoteView	../env/share/kivy-examples/tutorials/notes/final/main.py	/^class NoteView(Screen):$/;"	kind:class	line:58
+Notes	../env/share/kivy-examples/tutorials/notes/final/main.py	/^class Notes(Screen):$/;"	kind:class	line:71
+OFFSET	../env/share/kivy-examples/miscellaneous/joystick.py	/^    OFFSET = 15000$/;"	kind:variable	line:17
+ORANGE	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^ORANGE = (1, .45, 0)$/;"	kind:variable	line:9
+ObjFile	../env/share/kivy-examples/3Drendering/objloader.py	/^class ObjFile:$/;"	kind:class	line:39
+Page	../env/share/kivy-examples/widgets/carousel_buttons.py	/^class Page(GridLayout):$/;"	kind:class	line:37
+PanelLeft	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class PanelLeft(Tp):$/;"	kind:class	line:267
+PanelRight	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class PanelRight(Tp):$/;"	kind:class	line:271
+PanelbLeft	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class PanelbLeft(Tp):$/;"	kind:class	line:277
+PanelbRight	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class PanelbRight(Tp):$/;"	kind:class	line:281
+Picture	../env/share/kivy-examples/android/takepicture/main.py	/^class Picture(Scatter):$/;"	kind:class	line:40
+Picture	../env/share/kivy-examples/demo/pictures/main.py	/^class Picture(Scatter):$/;"	kind:class	line:38
+Picture	../env/share/kivy-examples/widgets/colorpicker.py	/^class Picture(Scatter):$/;"	kind:class	line:138
+PicturesApp	../env/share/kivy-examples/demo/pictures/main.py	/^class PicturesApp(App):$/;"	kind:class	line:50
+PlasmaApp	../env/share/kivy-examples/shader/plasma.py	/^class PlasmaApp(App):$/;"	kind:class	line:80
+PongApp	../env/share/kivy-examples/tutorials/pong/main.py	/^class PongApp(App):$/;"	kind:class	line:73
+PongApp	../env/share/kivy-examples/tutorials/pong/steps/step1/main.py	/^class PongApp(App):$/;"	kind:class	line:9
+PongApp	../env/share/kivy-examples/tutorials/pong/steps/step2/main.py	/^class PongApp(App):$/;"	kind:class	line:9
+PongApp	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^class PongApp(App):$/;"	kind:class	line:20
+PongApp	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^class PongApp(App):$/;"	kind:class	line:39
+PongApp	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^class PongApp(App):$/;"	kind:class	line:66
+PongBall	../env/share/kivy-examples/tutorials/pong/main.py	/^class PongBall(Widget):$/;"	kind:class	line:29
+PongBall	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^class PongBall(Widget):$/;"	kind:class	line:7
+PongBall	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^class PongBall(Widget):$/;"	kind:class	line:11
+PongBall	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^class PongBall(Widget):$/;"	kind:class	line:22
+PongGame	../env/share/kivy-examples/tutorials/pong/main.py	/^class PongGame(Widget):$/;"	kind:class	line:38
+PongGame	../env/share/kivy-examples/tutorials/pong/steps/step1/main.py	/^class PongGame(Widget):$/;"	kind:class	line:5
+PongGame	../env/share/kivy-examples/tutorials/pong/steps/step2/main.py	/^class PongGame(Widget):$/;"	kind:class	line:5
+PongGame	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^class PongGame(Widget):$/;"	kind:class	line:16
+PongGame	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^class PongGame(Widget):$/;"	kind:class	line:20
+PongGame	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^class PongGame(Widget):$/;"	kind:class	line:31
+PongPaddle	../env/share/kivy-examples/tutorials/pong/main.py	/^class PongPaddle(Widget):$/;"	kind:class	line:13
+PongPaddle	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^class PongPaddle(Widget):$/;"	kind:class	line:10
+Prebuilt	../env/share/kivy-examples/application/app_suite.py	/^    class Prebuilt(FloatLayout):$/;"	kind:class	line:86
+Puzzle	../env/share/kivy-examples/demo/camera_puzzle.py	/^class Puzzle(Camera):$/;"	kind:class	line:25
+PuzzleApp	../env/share/kivy-examples/demo/camera_puzzle.py	/^class PuzzleApp(App):$/;"	kind:class	line:81
+RED	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^RED = (1, 0, 0)$/;"	kind:variable	line:10
+RecognizerResultDetails	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class RecognizerResultDetails(BoxLayout):$/;"	kind:class	line:149
+RecognizerResultLabel	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^class RecognizerResultLabel(Label):$/;"	kind:class	line:143
+RegularShape	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^class RegularShape(BaseShape):$/;"	kind:class	line:195
+Renderer	../env/share/kivy-examples/3Drendering/main.py	/^class Renderer(Widget):$/;"	kind:class	line:26
+RendererApp	../env/share/kivy-examples/3Drendering/main.py	/^class RendererApp(App):$/;"	kind:class	line:70
+RepeatTexture	../env/share/kivy-examples/canvas/repeat_texture.py	/^class RepeatTexture(App):$/;"	kind:class	line:54
+Right_Frame	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class Right_Frame(GridLayout):$/;"	kind:class	line:27
+Root	../env/share/kivy-examples/RST_Editor/main.py	/^class Root(FloatLayout):$/;"	kind:class	line:21
+Root	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^class Root(BoxLayout):$/;"	kind:class	line:75
+Root	../env/share/kivy-examples/widgets/colorusage.py	/^class Root(GridLayout):$/;"	kind:class	line:52
+RootWidget	../env/share/kivy-examples/container/main.py	/^class RootWidget(BoxLayout):$/;"	kind:class	line:19
+RootWidget	../env/share/kivy-examples/kv/ids/kv_and_py/kv_and_py.py	/^class RootWidget(BoxLayout):$/;"	kind:class	line:15
+RootWidget	../env/share/kivy-examples/shader/shadertree.py	/^class RootWidget(FloatLayout):$/;"	kind:class	line:166
+RotatedApp	../env/share/kivy-examples/shader/rotated.py	/^class RotatedApp(App):$/;"	kind:class	line:93
+RotationApp	../env/share/kivy-examples/canvas/rotation.py	/^class RotationApp(App):$/;"	kind:class	line:30
+RoundedRectangleWidget	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^class RoundedRectangleWidget(Widget):$/;"	kind:class	line:14
+RstApp	../env/share/kivy-examples/widgets/rstexample.py	/^class RstApp(App):$/;"	kind:class	line:122
+STOP_FIRE	../env/share/kivy-examples/miscellaneous/joystick.py	/^    STOP_FIRE = -32767$/;"	kind:variable	line:14
+SaveDialog	../env/share/kivy-examples/RST_Editor/main.py	/^class SaveDialog(FloatLayout):$/;"	kind:class	line:15
+SaveDialog	../env/share/kivy-examples/widgets/codeinput.py	/^class SaveDialog(Popup):$/;"	kind:class	line:98
+ScalingApp	../env/share/kivy-examples/canvas/scale.py	/^class ScalingApp(App):$/;"	kind:class	line:32
+ScatterApp	../env/share/kivy-examples/widgets/scatter.py	/^class ScatterApp(App):$/;"	kind:class	line:9
+ScreenLayerApp	../env/share/kivy-examples/canvas/fbo_canvas.py	/^class ScreenLayerApp(App):$/;"	kind:class	line:73
+ScreenManagerApp	../env/share/kivy-examples/widgets/screenmanager.py	/^class ScreenManagerApp(App):$/;"	kind:class	line:96
+ScrollViewApp	../env/share/kivy-examples/widgets/scrollview.py	/^class ScrollViewApp(App):$/;"	kind:class	line:10
+SelectableGrid	../env/share/kivy-examples/widgets/compound_selection.py	/^class SelectableGrid(FocusBehavior, CompoundSelectionBehavior, GridLayout):$/;"	kind:class	line:8
+Selector	../env/share/kivy-examples/widgets/textalign.py	/^class Selector(FloatLayout):$/;"	kind:class	line:11
+SettingsApp	../env/share/kivy-examples/widgets/settings.py	/^class SettingsApp(App):$/;"	kind:class	line:12
+ShaderEditor	../env/share/kivy-examples/demo/shadereditor/main.py	/^class ShaderEditor(FloatLayout):$/;"	kind:class	line:93
+ShaderEditorApp	../env/share/kivy-examples/demo/shadereditor/main.py	/^class ShaderEditorApp(App):$/;"	kind:class	line:138
+ShaderTreeApp	../env/share/kivy-examples/shader/shadertree.py	/^class ShaderTreeApp(App):$/;"	kind:class	line:187
+ShaderViewer	../env/share/kivy-examples/demo/shadereditor/main.py	/^class ShaderViewer(FloatLayout):$/;"	kind:class	line:67
+ShaderWidget	../env/share/kivy-examples/shader/plasma.py	/^class ShaderWidget(FloatLayout):$/;"	kind:class	line:44
+ShaderWidget	../env/share/kivy-examples/shader/rotated.py	/^class ShaderWidget(Widget):$/;"	kind:class	line:61
+ShaderWidget	../env/share/kivy-examples/shader/shadertree.py	/^class ShaderWidget(FloatLayout):$/;"	kind:class	line:93
+ShapeBuilder	../env/share/kivy-examples/canvas/tesselate.py	/^class ShapeBuilder(FloatLayout):$/;"	kind:class	line:54
+ShapedWindow	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^class ShapedWindow(App):$/;"	kind:class	line:79
+ShortenText	../env/share/kivy-examples/widgets/shorten_text.py	/^class ShortenText(App):$/;"	kind:class	line:75
+ShowcaseApp	../env/share/kivy-examples/demo/showcase/main.py	/^class ShowcaseApp(App):$/;"	kind:class	line:48
+ShowcaseScreen	../env/share/kivy-examples/demo/showcase/main.py	/^class ShowcaseScreen(Screen):$/;"	kind:class	line:39
+SimpleKivy	../kivy_tutorial.py	/^class SimpleKivy(App):$/;"	kind:class	line:16
+SpecialButton	../env/share/kivy-examples/includes/main.py	/^class SpecialButton(Button):$/;"	kind:class	line:6
+SpinnerRow	../env/share/kivy-examples/widgets/effectwidget.py	/^class SpinnerRow(BoxLayout):$/;"	kind:class	line:37
+StandingHeader	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class StandingHeader(TabbedPanelHeader):$/;"	kind:class	line:15
+StencilCanvasApp	../env/share/kivy-examples/canvas/stencil_canvas.py	/^class StencilCanvasApp(App):$/;"	kind:class	line:37
+StencilTestWidget	../env/share/kivy-examples/canvas/stencil_canvas.py	/^class StencilTestWidget(StencilView):$/;"	kind:class	line:25
+StressCanvasApp	../env/share/kivy-examples/canvas/canvas_stress.py	/^class StressCanvasApp(App):$/;"	kind:class	line:22
+SvgApp	../env/share/kivy-examples/svg/main-smaa.py	/^class SvgApp(App):$/;"	kind:class	line:77
+SvgApp	../env/share/kivy-examples/svg/main.py	/^class SvgApp(App):$/;"	kind:class	line:33
+SvgWidget	../env/share/kivy-examples/svg/main-smaa.py	/^class SvgWidget(Scatter):$/;"	kind:class	line:67
+SvgWidget	../env/share/kivy-examples/svg/main.py	/^class SvgWidget(Scatter):$/;"	kind:class	line:24
+TEXTURE	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^TEXTURE = 'kiwi.jpg'$/;"	kind:variable	line:7
+TWISTD	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^TWISTD = 'twistd web -p 8087'$/;"	kind:variable	line:15
+TabShowcase	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class TabShowcase(FloatLayout):$/;"	kind:class	line:285
+TabbedPanelApp	../env/share/kivy-examples/widgets/tabbedpanel.py	/^class TabbedPanelApp(App):$/;"	kind:class	line:44
+TakePictureApp	../env/share/kivy-examples/android/takepicture/main.py	/^class TakePictureApp(App):$/;"	kind:class	line:44
+TessApp	../env/share/kivy-examples/canvas/tesselate.py	/^class TessApp(App):$/;"	kind:class	line:141
+Test	../env/share/kivy-examples/audio/pitch.py	/^class Test(App):$/;"	kind:class	line:22
+Test	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^class Test(BoxLayout):$/;"	kind:class	line:88
+Test	../env/share/kivy-examples/widgets/tabbedpanel.py	/^class Test(TabbedPanel):$/;"	kind:class	line:40
+TestApp	../env/share/kivy-examples/animation/animate.py	/^class TestApp(App):$/;"	kind:class	line:18
+TestApp	../env/share/kivy-examples/application/app_with_build.py	/^class TestApp(App):$/;"	kind:class	line:16
+TestApp	../env/share/kivy-examples/application/app_with_kv.py	/^class TestApp(App):$/;"	kind:class	line:20
+TestApp	../env/share/kivy-examples/application/app_with_kv_in_template1.py	/^class TestApp(App):$/;"	kind:class	line:22
+TestApp	../env/share/kivy-examples/includes/main.py	/^class TestApp(App):$/;"	kind:class	line:14
+TestApp	../env/share/kivy-examples/kv/ids/id_in_kv/id_in_kv.py	/^class TestApp(App):$/;"	kind:class	line:15
+TestApp	../env/share/kivy-examples/kv/ids/kv_and_py/kv_and_py.py	/^class TestApp(App):$/;"	kind:class	line:29
+TestApp	../env/share/kivy-examples/widgets/carousel_buttons.py	/^class TestApp(App):$/;"	kind:class	line:41
+TestApp	../env/share/kivy-examples/widgets/popup_with_kv.py	/^class TestApp(App):$/;"	kind:class	line:25
+TestApp	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^class TestApp(App):$/;"	kind:class	line:113
+TestAsyncApp	../env/share/kivy-examples/widgets/asyncimage.py	/^class TestAsyncApp(App):$/;"	kind:class	line:27
+TestBubbleApp	../env/share/kivy-examples/widgets/bubble_test.py	/^class TestBubbleApp(App):$/;"	kind:class	line:52
+TestBuildApp	../env/share/kivy-examples/application/app_suite.py	/^class TestBuildApp(App):$/;"	kind:class	line:33
+TestCamera	../env/share/kivy-examples/camera/main.py	/^class TestCamera(App):$/;"	kind:class	line:53
+TestFboApp	../env/share/kivy-examples/widgets/fbowidget.py	/^    class TestFboApp(App):$/;"	kind:class	line:87
+TestKVDirApp	../env/share/kivy-examples/application/app_suite.py	/^class TestKVDirApp(App):$/;"	kind:class	line:54
+TestKVFileApp	../env/share/kivy-examples/application/app_suite.py	/^class TestKVFileApp(App):$/;"	kind:class	line:44
+TestKVStringApp	../env/share/kivy-examples/application/app_suite.py	/^class TestKVStringApp(App):$/;"	kind:class	line:64
+TestLineApp	../env/share/kivy-examples/canvas/lines.py	/^class TestLineApp(App):$/;"	kind:class	line:290
+TestPrebuiltApp	../env/share/kivy-examples/application/app_suite.py	/^class TestPrebuiltApp(App):$/;"	kind:class	line:78
+TestTabApp	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class TestTabApp(App):$/;"	kind:class	line:310
+TextAlignApp	../env/share/kivy-examples/widgets/textalign.py	/^class TextAlignApp(App):$/;"	kind:class	line:16
+TextEditTestApp	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^class TextEditTestApp(App):$/;"	kind:class	line:43
+TextInputIME	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^class TextInputIME(TextInput):$/;"	kind:class	line:15
+TextureAccessibleWidget	../env/share/kivy-examples/canvas/texture.py	/^class TextureAccessibleWidget(Widget):$/;"	kind:class	line:25
+TouchEffect	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^class TouchEffect(AdvancedEffectBase):$/;"	kind:class	line:25
+TouchWidget	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^class TouchWidget(EffectWidget):$/;"	kind:class	line:38
+Touchtracer	../env/share/kivy-examples/demo/touchtracer/main.py	/^class Touchtracer(FloatLayout):$/;"	kind:class	line:55
+TouchtracerApp	../env/share/kivy-examples/demo/touchtracer/main.py	/^class TouchtracerApp(App):$/;"	kind:class	line:144
+Tp	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^class Tp(TabbedPanel):$/;"	kind:class	line:244
+Triangle	../env/share/kivy-examples/widgets/customcollide.py	/^class Triangle(Scatter):$/;"	kind:class	line:69
+TwistedClientApp	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^class TwistedClientApp(App):$/;"	kind:class	line:45
+TwistedServerApp	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^class TwistedServerApp(App):$/;"	kind:class	line:28
+TwistedTwistd	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^class TwistedTwistd(GridLayout):$/;"	kind:class	line:41
+TwistedTwistdApp	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^class TwistedTwistdApp(App):$/;"	kind:class	line:60
+Unicode_TextInput	../env/share/kivy-examples/widgets/unicode_textinput.py	/^class Unicode_TextInput(BoxLayout):$/;"	kind:class	line:124
+Uri	../env/share/kivy-examples/android/takepicture/main.py	/^Uri = autoclass('android.net.Uri')$/;"	kind:variable	line:36
+UrlExample	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^class UrlExample(App):$/;"	kind:class	line:75
+VALUES	../env/share/kivy-examples/miscellaneous/joystick.py	/^    VALUES = ListProperty([])$/;"	kind:variable	line:20
+VideoPlayerApp	../env/share/kivy-examples/widgets/videoplayer.py	/^class VideoPlayerApp(App):$/;"	kind:class	line:14
+WHITE	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^WHITE = (1, 1, 1)$/;"	kind:variable	line:11
+YELLOW	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^YELLOW = (1, .7, 0)$/;"	kind:variable	line:8
+__all__	../env/share/kivy-examples/canvas/fbo_canvas.py	/^__all__ = ('FboFloatLayout', )$/;"	kind:variable	line:11
+__all__	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^__all__ = ('GestureDatabase', 'GestureDatabaseItem')$/;"	kind:variable	line:1
+__all__	../env/share/kivy-examples/demo/multistroke/helpers.py	/^__all__ = ('InformationPopup', )$/;"	kind:variable	line:1
+__all__	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^__all__ = ('GestureHistoryManager', 'GestureVisualizer')$/;"	kind:variable	line:1
+__all__	../env/share/kivy-examples/demo/multistroke/settings.py	/^__all__ = ('MultistrokeSettingsContainer', 'MultistrokeSettingItem',$/;"	kind:variable	line:1
+__all__	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^__all__ = ('AnimatedButton')$/;"	kind:variable	line:2
+__init__	../env/share/kivy-examples/3Drendering/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:27
+__init__	../env/share/kivy-examples/3Drendering/objloader.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:2
+__init__	../env/share/kivy-examples/3Drendering/objloader.py	/^    def __init__(self, filename, swapyz=False):$/;"	kind:member	line:75
+__init__	../env/share/kivy-examples/canvas/bezier.py	/^    def __init__(self, points=[], loop=False, *args, **kwargs):$/;"	kind:member	line:20
+__init__	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:29
+__init__	../env/share/kivy-examples/canvas/multitexture.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:63
+__init__	../env/share/kivy-examples/canvas/multitexture.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:98
+__init__	../env/share/kivy-examples/canvas/tesselate.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:55
+__init__	../env/share/kivy-examples/canvas/texture.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:30
+__init__	../env/share/kivy-examples/cover/cover_image.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:11
+__init__	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:119
+__init__	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:57
+__init__	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:33
+__init__	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:87
+__init__	../env/share/kivy-examples/demo/multistroke/helpers.py	/^    def __init__(self, time=1.5, **kwargs):$/;"	kind:member	line:25
+__init__	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:153
+__init__	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:170
+__init__	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:29
+__init__	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def __init__(self, gesturecontainer, **kwargs):$/;"	kind:member	line:220
+__init__	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:40
+__init__	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:54
+__init__	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def __init__(self, **kwargs):$/;"	kind:function	line:112
+__init__	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:71
+__init__	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def __init__(self, app):$/;"	kind:member	line:23
+__init__	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    def __init__(self, app):$/;"	kind:member	line:20
+__init__	../env/share/kivy-examples/gestures/gesture_board.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:27
+__init__	../env/share/kivy-examples/keyboard/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:161
+__init__	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:176
+__init__	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def __init__(self, *largs, **kwargs):$/;"	kind:member	line:148
+__init__	../env/share/kivy-examples/kv/kvrun.py	/^    def __init__(self, filename, **kwargs):$/;"	kind:member	line:8
+__init__	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:23
+__init__	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:8
+__init__	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:18
+__init__	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:29
+__init__	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:44
+__init__	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:322
+__init__	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:71
+__init__	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def __init__(self, color=None, **kwargs):$/;"	kind:member	line:246
+__init__	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def __init__(self, edges=3, color=None, **kwargs):$/;"	kind:member	line:200
+__init__	../env/share/kivy-examples/shader/plasma.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:49
+__init__	../env/share/kivy-examples/shader/rotated.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:66
+__init__	../env/share/kivy-examples/shader/shadertree.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:101
+__init__	../env/share/kivy-examples/shader/shadertree.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:170
+__init__	../env/share/kivy-examples/svg/main-smaa.py	/^    def __init__(self, filename):$/;"	kind:member	line:69
+__init__	../env/share/kivy-examples/svg/main.py	/^    def __init__(self, filename, **kwargs):$/;"	kind:member	line:26
+__init__	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:27
+__init__	../env/share/kivy-examples/widgets/bubble_test.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:34
+__init__	../env/share/kivy-examples/widgets/colorpicker.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:144
+__init__	../env/share/kivy-examples/widgets/compound_selection.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:10
+__init__	../env/share/kivy-examples/widgets/effectwidget2.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:25
+__init__	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:28
+__init__	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    def __init__(self, *args, **kwargs):$/;"	kind:member	line:39
+__init__	../env/share/kivy-examples/widgets/fbowidget.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:46
+__init__	../env/share/kivy-examples/widgets/focus_behavior.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:16
+__init__	../env/share/kivy-examples/widgets/keyboardlistener.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:10
+__init__	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:13
+__init__	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:18
+__init__	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:23
+__init__	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:31
+__init__	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:52
+__init__	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:25
+__init__	../kivy_tutorial.py	/^  def __init__(self, **kwargs):$/;"	kind:member	line:7
+__init__.py	../env/share/kivy-examples/widgets/sequenced_images/uix/__init__.py	1;"	kind:file	line:1
+__version__	../env/share/kivy-examples/android/takepicture/main.py	/^__version__ = '0.1'$/;"	kind:variable	line:21
+__version__	../env/share/kivy-examples/demo/touchtracer/main.py	/^__version__ = '1.0'$/;"	kind:variable	line:26
+__version__	../env/share/kivy-examples/tutorials/notes/final/main.py	/^__version__ = '1.0'$/;"	kind:variable	line:9
+_add_keyboards	../env/share/kivy-examples/keyboard/main.py	/^    def _add_keyboards(self):$/;"	kind:member	line:166
+_bindings_selected	../env/share/kivy-examples/widgets/codeinput.py	/^    def _bindings_selected(self, instance, value):$/;"	kind:member	line:205
+_change_kv_ev	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    _change_kv_ev = None$/;"	kind:variable	line:117
+_color	../env/share/kivy-examples/widgets/focus_behavior.py	/^    _color = None$/;"	kind:variable	line:13
+_dismiss	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def _dismiss(self, *l):$/;"	kind:member	line:69
+_do_press	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def _do_press(self):$/;"	kind:member	line:59
+_do_release	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def _do_release(self):$/;"	kind:member	line:62
+_draw_item	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def _draw_item(self, dt):$/;"	kind:member	line:239
+_draw_rect	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def _draw_rect(self, clear=False, *l):$/;"	kind:member	line:65
+_example_title_text	../env/share/kivy-examples/widgets/label_sizing.py	/^_example_title_text = 'A Tale of Two Cities, by Charles Dickens\\n'$/;"	kind:variable	line:17
+_file_menu_selected	../env/share/kivy-examples/widgets/codeinput.py	/^    def _file_menu_selected(self, instance, value):$/;"	kind:member	line:181
+_get_data_for_widgets	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def _get_data_for_widgets(self):$/;"	kind:member	line:75
+_keyboard_close	../env/share/kivy-examples/keyboard/main.py	/^    def _keyboard_close(self, *args):$/;"	kind:member	line:193
+_keyboard_closed	../env/share/kivy-examples/widgets/keyboardlistener.py	/^    def _keyboard_closed(self):$/;"	kind:member	line:20
+_new_touch	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    _new_touch = ListProperty([0, 0])$/;"	kind:variable	line:60
+_old_pos	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    _old_pos = ListProperty([0, 0])$/;"	kind:variable	line:58
+_old_touch	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    _old_touch = ListProperty([0, 0])$/;"	kind:variable	line:59
+_on_complete	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^        def _on_complete(*lt):$/;"	kind:function	line:253
+_on_keyboard_down	../env/share/kivy-examples/widgets/keyboardlistener.py	/^    def _on_keyboard_down(self, keyboard, keycode, text, modifiers):$/;"	kind:member	line:25
+_on_keyboard_handler	../env/share/kivy-examples/svg/main-smaa.py	/^    def _on_keyboard_handler(self, instance, key, *args):$/;"	kind:member	line:140
+_on_textedit	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def _on_textedit(self, window, text):$/;"	kind:member	line:22
+_on_video_frame	../env/share/kivy-examples/cover/cover_video.py	/^    def _on_video_frame(self, *largs):$/;"	kind:member	line:11
+_print_fps	../env/share/kivy-examples/kv/kvrun.py	/^    def _print_fps(self, *largs):$/;"	kind:member	line:12
+_reanalyze_complete	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def _reanalyze_complete(self, *l):$/;"	kind:member	line:57
+_rect	../env/share/kivy-examples/widgets/focus_behavior.py	/^    _rect = None$/;"	kind:variable	line:14
+_redraw_gesture_list	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def _redraw_gesture_list(self, *l):$/;"	kind:member	line:178
+_reload_keypress	../env/share/kivy-examples/kv/kvrun.py	/^    def _reload_keypress(self, instance, code, *largs):$/;"	kind:member	line:16
+_set_bezier_dash_offset	../env/share/kivy-examples/canvas/bezier.py	/^    def _set_bezier_dash_offset(self, instance, value):$/;"	kind:member	line:51
+_set_line_dash_offset	../env/share/kivy-examples/canvas/bezier.py	/^    def _set_line_dash_offset(self, instance, value):$/;"	kind:member	line:56
+_to_numtype	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def _to_numtype(self, v):$/;"	kind:member	line:60
+_update_clock	../env/share/kivy-examples/demo/showcase/main.py	/^    def _update_clock(self, dt):$/;"	kind:member	line:234
+_update_font	../env/share/kivy-examples/widgets/codeinput.py	/^    def _update_font(self, instance, fnt_name):$/;"	kind:member	line:178
+_update_points_animation_ev	../env/share/kivy-examples/canvas/lines.py	/^    _update_points_animation_ev = None$/;"	kind:variable	line:244
+_update_rect	../env/share/kivy-examples/widgets/focus_behavior.py	/^    def _update_rect(self, instance, value):$/;"	kind:member	line:23
+_update_size	../env/share/kivy-examples/widgets/codeinput.py	/^    def _update_size(self, instance, size):$/;"	kind:member	line:175
+_validate	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def _validate(self, instance, value):$/;"	kind:member	line:72
+accordion_1.py	../env/share/kivy-examples/widgets/accordion_1.py	1;"	kind:file	line:1
+actionbar.py	../env/share/kivy-examples/widgets/actionbar.py	1;"	kind:file	line:1
+add_button	../env/share/kivy-examples/demo/showcase/main.py	/^        def add_button(*t):$/;"	kind:function	line:147
+add_button	../env/share/kivy-examples/demo/showcase/main.py	/^        def add_button(*t):$/;"	kind:function	line:167
+add_button	../env/share/kivy-examples/demo/showcase/main.py	/^        def add_button(*t):$/;"	kind:function	line:183
+add_button	../env/share/kivy-examples/demo/showcase/main.py	/^        def add_button(*t):$/;"	kind:function	line:205
+add_header	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^    def add_header(self):$/;"	kind:member	line:273
+add_note	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def add_note(self):$/;"	kind:member	line:130
+add_picture	../env/share/kivy-examples/android/takepicture/main.py	/^    def add_picture(self, fn, *args):$/;"	kind:member	line:69
+add_recognizer_result	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def add_recognizer_result(self, result, *l):$/;"	kind:member	line:121
+add_rects	../env/share/kivy-examples/canvas/canvas_stress.py	/^    def add_rects(self, label, wid, count, *largs):$/;"	kind:member	line:24
+add_rects	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def add_rects(self, label, wid, count, *largs):$/;"	kind:member	line:39
+add_selected_to_database	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def add_selected_to_database(self, *l):$/;"	kind:member	line:61
+add_widget	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def add_widget(self, *largs):$/;"	kind:member	line:44
+add_widget	../env/share/kivy-examples/demo/showcase/main.py	/^    def add_widget(self, *args):$/;"	kind:member	line:42
+add_widget	../env/share/kivy-examples/shader/shadertree.py	/^    def add_widget(self, widget):$/;"	kind:member	line:142
+add_widget	../env/share/kivy-examples/widgets/fbowidget.py	/^    def add_widget(self, *largs):$/;"	kind:member	line:57
+add_word	../env/share/kivy-examples/widgets/label_sizing.py	/^    def add_word(self, dt=None):$/;"	kind:member	line:176
+allow_stretch	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    allow_stretch = BooleanProperty(True)$/;"	kind:variable	line:15
+alpha	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    alpha = NumericProperty(1)$/;"	kind:variable	line:27
+alpha	../env/share/kivy-examples/canvas/lines.py	/^    alpha = NumericProperty(0.5)$/;"	kind:variable	line:230
+alpha_controlline	../env/share/kivy-examples/canvas/lines.py	/^    alpha_controlline = NumericProperty(1.0)$/;"	kind:variable	line:229
+alpha_shape	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^alpha_shape = resource_find('data\/logo\/kivy-icon-512.png')$/;"	kind:variable	line:6
+anim_btn	../env/share/kivy-examples/canvas/fbo_canvas.py	/^        def anim_btn(*args):$/;"	kind:function	line:80
+anim_delay	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    anim_delay = ObjectProperty(None)$/;"	kind:variable	line:18
+anim_reset	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^        def anim_reset(*l):$/;"	kind:function	line:40
+animate	../env/share/kivy-examples/animation/animate.py	/^    def animate(self, instance):$/;"	kind:member	line:20
+animate	../env/share/kivy-examples/canvas/lines.py	/^    def animate(self, do_animation):$/;"	kind:member	line:265
+animate.py	../env/share/kivy-examples/animation/animate.py	1;"	kind:file	line:1
+app	../env/share/kivy-examples/widgets/textalign.py	/^    app = ObjectProperty(None)$/;"	kind:variable	line:12
+app_suite.py	../env/share/kivy-examples/application/app_suite.py	1;"	kind:file	line:1
+app_with_build.py	../env/share/kivy-examples/application/app_with_build.py	1;"	kind:file	line:1
+app_with_config.py	../env/share/kivy-examples/application/app_with_config.py	1;"	kind:file	line:1
+app_with_kv.py	../env/share/kivy-examples/application/app_with_kv.py	1;"	kind:file	line:1
+app_with_kv_in_template1.py	../env/share/kivy-examples/application/app_with_kv_in_template1.py	1;"	kind:file	line:1
+arg	../env/share/kivy-examples/application/app_suite.py	/^        arg = choice('bfds')$/;"	kind:variable	line:115
+arg	../env/share/kivy-examples/application/app_suite.py	/^    arg = sys.argv[1][0].lower() if len(sys.argv) > 1 else "h"$/;"	kind:variable	line:111
+asyncimage.py	../env/share/kivy-examples/widgets/asyncimage.py	1;"	kind:file	line:1
+background	../env/share/kivy-examples/canvas/repeat_texture.py	/^    background = ListProperty((0.2, 0.2, 0.2))$/;"	kind:variable	line:51
+background_changed	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^        def background_changed(*l):$/;"	kind:function	line:50
+background_down	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    background_down = StringProperty($/;"	kind:variable	line:22
+background_normal	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    background_normal = StringProperty($/;"	kind:variable	line:19
+ball	../env/share/kivy-examples/tutorials/pong/main.py	/^    ball = ObjectProperty(None)$/;"	kind:variable	line:39
+ball	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    ball = ObjectProperty(None)$/;"	kind:variable	line:21
+ball	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    ball = ObjectProperty(None)$/;"	kind:variable	line:32
+base_direction	../env/share/kivy-examples/text/pango_demo.py	/^    base_direction = F.StringProperty(None, allownone=True)$/;"	kind:variable	line:9
+basic_data.py	../env/share/kivy-examples/widgets/recycleview/basic_data.py	1;"	kind:file	line:1
+benchmark.py	../env/share/kivy-examples/svg/benchmark.py	1;"	kind:file	line:1
+bezier.py	../env/share/kivy-examples/canvas/bezier.py	1;"	kind:file	line:1
+bio	../env/share/kivy-examples/miscellaneous/imagesave.py	/^bio = BytesIO()$/;"	kind:variable	line:12
+bio	../env/share/kivy-examples/miscellaneous/imagesave.py	/^bio = BytesIO()$/;"	kind:variable	line:8
+blocksize	../env/share/kivy-examples/demo/camera_puzzle.py	/^    blocksize = NumericProperty(100)$/;"	kind:variable	line:27
+border	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    border = ObjectProperty(None)$/;"	kind:variable	line:17
+bounce_ball	../env/share/kivy-examples/tutorials/pong/main.py	/^    def bounce_ball(self, ball):$/;"	kind:member	line:17
+bounce_ball	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def bounce_ball(self, ball):$/;"	kind:member	line:13
+boxlayout_poshint.py	../env/share/kivy-examples/widgets/boxlayout_poshint.py	1;"	kind:file	line:1
+btn	../env/share/kivy-examples/widgets/textinput.py	/^    btn = Button(text='Release\\nall\\nkeyboards', size_hint=(None, None),$/;"	kind:variable	line:39
+bubble_test.py	../env/share/kivy-examples/widgets/bubble_test.py	1;"	kind:file	line:1
+build	../calc.py	/^  def build(self):$/;"	kind:member	line:16
+build	../custom_widget.py	/^  def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/3Drendering/main.py	/^    def build(self):$/;"	kind:member	line:71
+build	../env/share/kivy-examples/android/compass/main.py	/^    def build(self):$/;"	kind:member	line:40
+build	../env/share/kivy-examples/android/takepicture/main.py	/^    def build(self):$/;"	kind:member	line:45
+build	../env/share/kivy-examples/animation/animate.py	/^    def build(self):$/;"	kind:member	line:34
+build	../env/share/kivy-examples/application/app_suite.py	/^    def build(self):$/;"	kind:member	line:35
+build	../env/share/kivy-examples/application/app_suite.py	/^    def build(self):$/;"	kind:member	line:69
+build	../env/share/kivy-examples/application/app_suite.py	/^    def build(self):$/;"	kind:member	line:91
+build	../env/share/kivy-examples/application/app_with_build.py	/^    def build(self):$/;"	kind:member	line:18
+build	../env/share/kivy-examples/application/app_with_config.py	/^    def build(self):$/;"	kind:member	line:44
+build	../env/share/kivy-examples/audio/main.py	/^    def build(self):$/;"	kind:member	line:59
+build	../env/share/kivy-examples/audio/pitch.py	/^    def build(self):$/;"	kind:member	line:23
+build	../env/share/kivy-examples/camera/main.py	/^    def build(self):$/;"	kind:member	line:55
+build	../env/share/kivy-examples/canvas/bezier.py	/^    def build(self):$/;"	kind:member	line:92
+build	../env/share/kivy-examples/canvas/canvas_stress.py	/^    def build(self):$/;"	kind:member	line:40
+build	../env/share/kivy-examples/canvas/circle.py	/^    def build(self):$/;"	kind:member	line:80
+build	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def build(self):$/;"	kind:member	line:74
+build	../env/share/kivy-examples/canvas/lines.py	/^    def build(self):$/;"	kind:member	line:291
+build	../env/share/kivy-examples/canvas/lines_extended.py	/^    def build(self):$/;"	kind:member	line:168
+build	../env/share/kivy-examples/canvas/mesh.py	/^    def build(self):$/;"	kind:member	line:37
+build	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    def build(self):$/;"	kind:member	line:76
+build	../env/share/kivy-examples/canvas/multitexture.py	/^    def build(self):$/;"	kind:member	line:105
+build	../env/share/kivy-examples/canvas/repeat_texture.py	/^    def build(self):$/;"	kind:member	line:58
+build	../env/share/kivy-examples/canvas/rotation.py	/^    def build(self):$/;"	kind:member	line:31
+build	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^    def build(self):$/;"	kind:member	line:111
+build	../env/share/kivy-examples/canvas/scale.py	/^    def build(self):$/;"	kind:member	line:33
+build	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def build(self):$/;"	kind:member	line:55
+build	../env/share/kivy-examples/canvas/tesselate.py	/^    def build(self):$/;"	kind:member	line:142
+build	../env/share/kivy-examples/canvas/tesselate.py	/^    def build(self):$/;"	kind:member	line:91
+build	../env/share/kivy-examples/container/main.py	/^    def build(self):$/;"	kind:member	line:31
+build	../env/share/kivy-examples/cover/cover_image.py	/^    def build(self):$/;"	kind:member	line:20
+build	../env/share/kivy-examples/cover/cover_video.py	/^    def build(self):$/;"	kind:member	line:26
+build	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def build(self):$/;"	kind:member	line:35
+build	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def build(self):$/;"	kind:member	line:82
+build	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def build(self):$/;"	kind:member	line:184
+build	../env/share/kivy-examples/demo/multistroke/main.py	/^    def build(self):$/;"	kind:member	line:88
+build	../env/share/kivy-examples/demo/pictures/main.py	/^    def build(self):$/;"	kind:member	line:52
+build	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def build(self):$/;"	kind:member	line:139
+build	../env/share/kivy-examples/demo/showcase/main.py	/^    def build(self):$/;"	kind:member	line:58
+build	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def build(self):$/;"	kind:member	line:148
+build	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def build(self):$/;"	kind:member	line:50
+build	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    def build(self):$/;"	kind:member	line:31
+build	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^    def build(self):$/;"	kind:member	line:62
+build	../env/share/kivy-examples/gestures/gesture_board.py	/^    def build(self):$/;"	kind:member	line:90
+build	../env/share/kivy-examples/guide/designwithkv/main.py	/^    def build(self):$/;"	kind:member	line:24
+build	../env/share/kivy-examples/guide/firstwidget/1_skeleton.py	/^    def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/guide/firstwidget/2_print_touch.py	/^    def build(self):$/;"	kind:member	line:11
+build	../env/share/kivy-examples/guide/firstwidget/3_draw_ellipse.py	/^    def build(self):$/;"	kind:member	line:17
+build	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	/^    def build(self):$/;"	kind:member	line:21
+build	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	/^    def build(self):$/;"	kind:member	line:23
+build	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^    def build(self):$/;"	kind:member	line:24
+build	../env/share/kivy-examples/guide/quickstart/main.py	/^    def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/keyboard/main.py	/^    def build(self):$/;"	kind:member	line:217
+build	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def build(self):$/;"	kind:member	line:229
+build	../env/share/kivy-examples/kv/builder_template.py	/^    def build(self):$/;"	kind:member	line:17
+build	../env/share/kivy-examples/kv/kvrun.py	/^    def build(self):$/;"	kind:member	line:24
+build	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def build(self):$/;"	kind:member	line:78
+build	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^    def build(self):$/;"	kind:member	line:26
+build	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def build(self):$/;"	kind:member	line:47
+build	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def build(self):$/;"	kind:member	line:367
+build	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^    def build(self):$/;"	kind:member	line:90
+build	../env/share/kivy-examples/miscellaneous/two_panes.py	/^    def build(self):$/;"	kind:member	line:43
+build	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def build(self):$/;"	kind:member	line:81
+build	../env/share/kivy-examples/settings/main.py	/^    def build(self):$/;"	kind:member	line:52
+build	../env/share/kivy-examples/shader/plasma.py	/^    def build(self):$/;"	kind:member	line:81
+build	../env/share/kivy-examples/shader/rotated.py	/^    def build(self):$/;"	kind:member	line:94
+build	../env/share/kivy-examples/shader/shadertree.py	/^    def build(self):$/;"	kind:member	line:188
+build	../env/share/kivy-examples/svg/main-smaa.py	/^    def build(self):$/;"	kind:member	line:79
+build	../env/share/kivy-examples/svg/main.py	/^    def build(self):$/;"	kind:member	line:35
+build	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def build(self):$/;"	kind:member	line:87
+build	../env/share/kivy-examples/tutorials/pong/main.py	/^    def build(self):$/;"	kind:member	line:74
+build	../env/share/kivy-examples/tutorials/pong/steps/step1/main.py	/^    def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/tutorials/pong/steps/step2/main.py	/^    def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^    def build(self):$/;"	kind:member	line:21
+build	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    def build(self):$/;"	kind:member	line:40
+build	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def build(self):$/;"	kind:member	line:67
+build	../env/share/kivy-examples/widgets/accordion_1.py	/^    def build(self):$/;"	kind:member	line:7
+build	../env/share/kivy-examples/widgets/asyncimage.py	/^    def build(self):$/;"	kind:member	line:28
+build	../env/share/kivy-examples/widgets/boxlayout_poshint.py	/^    def build(self):$/;"	kind:member	line:49
+build	../env/share/kivy-examples/widgets/bubble_test.py	/^    def build(self):$/;"	kind:member	line:54
+build	../env/share/kivy-examples/widgets/camera.py	/^    def build(self):$/;"	kind:member	line:28
+build	../env/share/kivy-examples/widgets/carousel_buttons.py	/^    def build(self):$/;"	kind:member	line:42
+build	../env/share/kivy-examples/widgets/codeinput.py	/^    def build(self):$/;"	kind:member	line:123
+build	../env/share/kivy-examples/widgets/colorpicker.py	/^    def build(self):$/;"	kind:member	line:223
+build	../env/share/kivy-examples/widgets/colorusage.py	/^    def build(self):$/;"	kind:member	line:57
+build	../env/share/kivy-examples/widgets/effectwidget.py	/^    def build(self):$/;"	kind:member	line:196
+build	../env/share/kivy-examples/widgets/fbowidget.py	/^        def build(self):$/;"	kind:member	line:88
+build	../env/share/kivy-examples/widgets/focus_behavior.py	/^    def build(self):$/;"	kind:member	line:58
+build	../env/share/kivy-examples/widgets/image_mipmap.py	/^    def build(self):$/;"	kind:member	line:19
+build	../env/share/kivy-examples/widgets/label_mipmap.py	/^    def build(self):$/;"	kind:member	line:18
+build	../env/share/kivy-examples/widgets/label_sizing.py	/^    def build(self):$/;"	kind:member	line:155
+build	../env/share/kivy-examples/widgets/label_text_size.py	/^    def build(self):$/;"	kind:member	line:39
+build	../env/share/kivy-examples/widgets/label_with_markup.py	/^    def build(self):$/;"	kind:member	line:16
+build	../env/share/kivy-examples/widgets/popup_with_kv.py	/^    def build(self):$/;"	kind:member	line:26
+build	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def build(self):$/;"	kind:member	line:114
+build	../env/share/kivy-examples/widgets/rstexample.py	/^    def build(self):$/;"	kind:member	line:123
+build	../env/share/kivy-examples/widgets/scatter.py	/^    def build(self):$/;"	kind:member	line:10
+build	../env/share/kivy-examples/widgets/screenmanager.py	/^    def build(self):$/;"	kind:member	line:98
+build	../env/share/kivy-examples/widgets/scrollview.py	/^    def build(self):$/;"	kind:member	line:12
+build	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def build(self):$/;"	kind:member	line:142
+build	../env/share/kivy-examples/widgets/settings.py	/^    def build(self):$/;"	kind:member	line:18
+build	../env/share/kivy-examples/widgets/shorten_text.py	/^    def build(self):$/;"	kind:member	line:76
+build	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^    def build(self):$/;"	kind:member	line:312
+build	../env/share/kivy-examples/widgets/tabbedpanel.py	/^    def build(self):$/;"	kind:member	line:45
+build	../env/share/kivy-examples/widgets/textalign.py	/^    def build(self):$/;"	kind:member	line:39
+build	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    def build(self):$/;"	kind:member	line:223
+build	../env/share/kivy-examples/widgets/videoplayer.py	/^    def build(self):$/;"	kind:member	line:16
+build	../hello_kivy.py	/^    def build(self):$/;"	kind:member	line:6
+build	../kivy_tutorial.py	/^  def build(self):$/;"	kind:member	line:17
+build_config	../env/share/kivy-examples/application/app_with_config.py	/^    def build_config(self, config):$/;"	kind:member	line:35
+build_config	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def build_config(self, config):$/;"	kind:member	line:250
+build_config	../env/share/kivy-examples/settings/main.py	/^    def build_config(self, config):$/;"	kind:member	line:68
+build_mesh	../env/share/kivy-examples/canvas/mesh.py	/^    def build_mesh(self):$/;"	kind:member	line:24
+build_settings	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def build_settings(self, settings):$/;"	kind:member	line:256
+build_settings	../env/share/kivy-examples/settings/main.py	/^    def build_settings(self, settings):$/;"	kind:member	line:74
+builder_template.py	../env/share/kivy-examples/kv/builder_template.py	1;"	kind:file	line:1
+button_text	../env/share/kivy-examples/demo/multistroke/settings.py	/^    button_text = StringProperty('')$/;"	kind:variable	line:31
+c	../env/share/kivy-examples/widgets/compound_selection.py	/^    c = Button(text=str(i))$/;"	kind:variable	line:78
+calc.py	../calc.py	1;"	kind:file	line:1
+calcApp	../calc.py	/^calcApp = CalculatorApp()$/;"	kind:variable	line:19
+calculate	../calc.py	/^  def calculate(self, calculation):$/;"	kind:member	line:8
+calculate_normals	../env/share/kivy-examples/3Drendering/objloader.py	/^    def calculate_normals(self):$/;"	kind:member	line:11
+calculate_points	../env/share/kivy-examples/demo/touchtracer/main.py	/^def calculate_points(x1, y1, x2, y2, steps=5):$/;"	kind:function	line:39
+calculate_points	../env/share/kivy-examples/widgets/colorpicker.py	/^def calculate_points(x1, y1, x2, y2, steps=5):$/;"	kind:function	line:118
+camera.py	../env/share/kivy-examples/widgets/camera.py	1;"	kind:file	line:1
+camera_puzzle.py	../env/share/kivy-examples/demo/camera_puzzle.py	1;"	kind:file	line:1
+can_bounce	../env/share/kivy-examples/tutorials/pong/main.py	/^    can_bounce = BooleanProperty(True)$/;"	kind:variable	line:15
+cancel	../env/share/kivy-examples/RST_Editor/main.py	/^    cancel = ObjectProperty(None)$/;"	kind:variable	line:12
+cancel	../env/share/kivy-examples/RST_Editor/main.py	/^    cancel = ObjectProperty(None)$/;"	kind:variable	line:18
+cancel	../env/share/kivy-examples/widgets/codeinput.py	/^    def cancel(self):$/;"	kind:member	line:107
+cancel	../env/share/kivy-examples/widgets/codeinput.py	/^    def cancel(self):$/;"	kind:member	line:94
+cancel	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    cancel = ObjectProperty(None)$/;"	kind:variable	line:121
+canvas_stress.py	../env/share/kivy-examples/canvas/canvas_stress.py	1;"	kind:file	line:1
+cap	../env/share/kivy-examples/canvas/lines.py	/^    cap = OptionProperty('none', options=('round', 'square', 'none'))$/;"	kind:variable	line:237
+capture	../env/share/kivy-examples/camera/main.py	/^    def capture(self):$/;"	kind:member	line:42
+carousel_buttons.py	../env/share/kivy-examples/widgets/carousel_buttons.py	1;"	kind:file	line:1
+cb_twistd	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^    def cb_twistd(self, *la):$/;"	kind:member	line:45
+center_label	../env/share/kivy-examples/keyboard/main.py	/^    center_label = ObjectProperty()$/;"	kind:variable	line:114
+change	../env/share/kivy-examples/shader/shadertree.py	/^    def change(self, *largs):$/;"	kind:member	line:183
+changeFont	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def changeFont(self):$/;"	kind:member	line:36
+change_anchor	../env/share/kivy-examples/demo/showcase/main.py	/^        def change_anchor(self, *l):$/;"	kind:function	line:222
+change_kv	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def change_kv(self, *largs):$/;"	kind:member	line:153
+change_lang	../env/share/kivy-examples/widgets/codeinput.py	/^    def change_lang(self, instance, z):$/;"	kind:member	line:216
+change_mode	../env/share/kivy-examples/canvas/mesh.py	/^    def change_mode(self, mode, *largs):$/;"	kind:member	line:21
+check	../env/share/kivy-examples/gestures/my_gestures.py	/^check = gdb.str_to_gesture($/;"	kind:variable	line:51
+check_focus_and_view	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def check_focus_and_view(self, textinput):$/;"	kind:member	line:52
+circle	../env/share/kivy-examples/gestures/my_gestures.py	/^circle = gdb.str_to_gesture($/;"	kind:variable	line:24
+circle.py	../env/share/kivy-examples/canvas/circle.py	1;"	kind:file	line:1
+cleanup	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def cleanup(self):$/;"	kind:member	line:93
+clear	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def clear(self):$/;"	kind:member	line:97
+clear_canvas	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^    def clear_canvas(self, obj):$/;"	kind:member	line:33
+clear_history	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def clear_history(self, *l):$/;"	kind:member	line:103
+clent_area	../env/share/kivy-examples/widgets/colorpicker.py	/^    clent_area = ObjectProperty(None)$/;"	kind:variable	line:198
+clientConnectionFailed	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def clientConnectionFailed(self, connector, reason):$/;"	kind:member	line:32
+clientConnectionLost	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def clientConnectionLost(self, connector, reason):$/;"	kind:member	line:29
+clipboard.py	../env/share/kivy-examples/miscellaneous/clipboard.py	1;"	kind:file	line:1
+close	../env/share/kivy-examples/canvas/lines.py	/^    close = BooleanProperty(False)$/;"	kind:variable	line:231
+close_settings	../env/share/kivy-examples/settings/main.py	/^    def close_settings(self, settings=None):$/;"	kind:member	line:96
+close_settings	../env/share/kivy-examples/widgets/settings.py	/^    def close_settings(self, *args):$/;"	kind:member	line:83
+cloud_poly	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^cloud_poly = [$/;"	kind:variable	line:26
+cmd_install	../env/bin/garden	/^    def cmd_install(self):$/;"	kind:member	line:126
+cmd_list	../env/bin/garden	/^    def cmd_list(self):$/;"	kind:member	line:94
+cmd_search	../env/bin/garden	/^    def cmd_search(self):$/;"	kind:member	line:111
+cmd_uninstall	../env/bin/garden	/^    def cmd_uninstall(self):$/;"	kind:member	line:165
+codeinput.py	../env/share/kivy-examples/widgets/codeinput.py	1;"	kind:file	line:1
+collide_point	../env/share/kivy-examples/widgets/customcollide.py	/^    def collide_point(self, x, y):$/;"	kind:member	line:74
+collision_circles	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def collision_circles(self, shapes=None, distance=100, debug=False, *args):$/;"	kind:member	line:327
+color_mode	../env/share/kivy-examples/widgets/colorpicker.py	/^    color_mode = StringProperty('cursor')$/;"	kind:variable	line:218
+colorpicker.py	../env/share/kivy-examples/widgets/colorpicker.py	1;"	kind:file	line:1
+colorusage.py	../env/share/kivy-examples/widgets/colorusage.py	1;"	kind:file	line:1
+compile_shaders	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def compile_shaders(self, *largs):$/;"	kind:function	line:119
+compound_selection.py	../env/share/kivy-examples/widgets/compound_selection.py	1;"	kind:file	line:1
+confim	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    def confim(self):$/;"	kind:member	line:33
+connect_to_server	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def connect_to_server(self):$/;"	kind:member	line:64
+connection	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    connection = None$/;"	kind:variable	line:46
+connectionMade	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def connectionMade(self):$/;"	kind:member	line:13
+container	../env/share/kivy-examples/container/main.py	/^    container = ObjectProperty(None)$/;"	kind:variable	line:24
+cover_image.py	../env/share/kivy-examples/cover/cover_image.py	1;"	kind:file	line:1
+cover_video.py	../env/share/kivy-examples/cover/cover_video.py	1;"	kind:file	line:1
+cross	../env/share/kivy-examples/gestures/my_gestures.py	/^cross = gdb.str_to_gesture($/;"	kind:variable	line:5
+currentObj	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    currentObj = ObjectProperty(None)$/;"	kind:variable	line:29
+currentObj	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    currentObj = ObjectProperty(None)$/;"	kind:variable	line:50
+current_image	../env/share/kivy-examples/widgets/colorpicker.py	/^    current_image = ObjectProperty(None)$/;"	kind:variable	line:214
+current_title	../env/share/kivy-examples/demo/showcase/main.py	/^    current_title = StringProperty()$/;"	kind:variable	line:51
+customWidget	../custom_widget.py	/^customWidget = CustomWidgetApp()$/;"	kind:variable	line:13
+custom_button.py	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	1;"	kind:file	line:1
+custom_widget.py	../custom_widget.py	1;"	kind:file	line:1
+customcollide.py	../env/share/kivy-examples/widgets/customcollide.py	1;"	kind:file	line:1
+cut_copy_paste	../env/share/kivy-examples/widgets/bubble_test.py	/^class cut_copy_paste(Bubble):$/;"	kind:class	line:28
+dash	../env/share/kivy-examples/application/app_suite.py	/^    dash = "-" * 40$/;"	kind:variable	line:109
+dash_length	../env/share/kivy-examples/canvas/lines.py	/^    dash_length = NumericProperty(1)$/;"	kind:variable	line:240
+dash_offset	../env/share/kivy-examples/canvas/lines.py	/^    dash_offset = NumericProperty(0)$/;"	kind:variable	line:241
+dashes	../env/share/kivy-examples/canvas/lines.py	/^    dashes = ListProperty([])$/;"	kind:variable	line:242
+data	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    data = ListProperty()$/;"	kind:variable	line:73
+dataReceived	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def dataReceived(self, data):$/;"	kind:member	line:16
+dataReceived	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    def dataReceived(self, data):$/;"	kind:member	line:11
+data_for_widgets	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    data_for_widgets = AliasProperty(_get_data_for_widgets, bind=['data'])$/;"	kind:variable	line:82
+debug_collider	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    debug_collider = ObjectProperty()$/;"	kind:variable	line:68
+debug_collider_len	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    debug_collider_len = NumericProperty(0)$/;"	kind:variable	line:69
+default_shape	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^default_shape = Config.get('kivy', 'window_shape')$/;"	kind:variable	line:5
+del_note	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def del_note(self, note_index):$/;"	kind:member	line:107
+depth_range	../env/share/kivy-examples/kinect/kinectviewer.py	/^    depth_range = NumericProperty(7.7)$/;"	kind:variable	line:170
+desc	../env/share/kivy-examples/demo/multistroke/settings.py	/^    desc = StringProperty('')$/;"	kind:variable	line:22
+desc	../env/share/kivy-examples/demo/multistroke/settings.py	/^    desc = StringProperty('')$/;"	kind:variable	line:27
+description	../env/bin/rst2html.py	/^description = ('Generates (X)HTML documents from standalone reStructuredText '$/;"	kind:variable	line:20
+description	../env/bin/rst2html4.py	/^description = ('Generates (X)HTML documents from standalone reStructuredText '$/;"	kind:variable	line:23
+description	../env/bin/rst2html5.py	/^description = (u'Generates HTML 5 documents from standalone '$/;"	kind:variable	line:31
+description	../env/bin/rst2latex.py	/^description = ('Generates LaTeX documents from standalone reStructuredText '$/;"	kind:variable	line:19
+description	../env/bin/rst2man.py	/^description = ("Generates plain unix manual documents.  " + default_description)$/;"	kind:variable	line:24
+description	../env/bin/rst2odt.py	/^    description=description)$/;"	kind:variable	line:29
+description	../env/bin/rst2odt.py	/^description = ('Generates OpenDocument\/OpenOffice\/ODF documents from '$/;"	kind:variable	line:22
+description	../env/bin/rst2pseudoxml.py	/^description = ('Generates pseudo-XML from standalone reStructuredText '$/;"	kind:variable	line:20
+description	../env/bin/rst2s5.py	/^description = ('Generates S5 (X)HTML slideshow documents from standalone '$/;"	kind:variable	line:21
+description	../env/bin/rst2xetex.py	/^description = ('Generates LaTeX documents from standalone reStructuredText '$/;"	kind:variable	line:19
+description	../env/bin/rst2xml.py	/^description = ('Generates Docutils-native XML from standalone '$/;"	kind:variable	line:20
+description	../env/bin/rstpep2html.py	/^                description=description)$/;"	kind:variable	line:25
+description	../env/bin/rstpep2html.py	/^description = ('Generates (X)HTML from reStructuredText-format PEP files.  '$/;"	kind:variable	line:21
+deselect_item	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def deselect_item(self, *l):$/;"	kind:member	line:111
+deselect_node	../env/share/kivy-examples/widgets/compound_selection.py	/^    def deselect_node(self, node):$/;"	kind:member	line:62
+dismiss_popup	../env/share/kivy-examples/RST_Editor/main.py	/^    def dismiss_popup(self):$/;"	kind:member	line:26
+dismiss_popup	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    def dismiss_popup(self):$/;"	kind:function	line:202
+displayLabel	../env/share/kivy-examples/keyboard/main.py	/^    displayLabel = ObjectProperty()$/;"	kind:variable	line:158
+display_settings	../env/share/kivy-examples/widgets/settings.py	/^    def display_settings(self, settings):$/;"	kind:member	line:70
+display_type	../env/share/kivy-examples/widgets/settings.py	/^    display_type = OptionProperty('normal', options=['normal', 'popup'])$/;"	kind:variable	line:14
+do_action	../env/share/kivy-examples/guide/designwithkv/main.py	/^    def do_action(self):$/;"	kind:member	line:17
+do_touch	../env/share/kivy-examples/widgets/compound_selection.py	/^    def do_touch(self, instance, touch):$/;"	kind:member	line:66
+double_rects	../env/share/kivy-examples/canvas/canvas_stress.py	/^    def double_rects(self, label, wid, *largs):$/;"	kind:member	line:32
+download	../env/bin/garden	/^    def download(self, package):$/;"	kind:member	line:187
+draw_item	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def draw_item(self, *l):$/;"	kind:member	line:57
+dt	../env/share/kivy-examples/canvas/lines.py	/^    dt = NumericProperty(0)$/;"	kind:variable	line:239
+easy_install	../env/bin/easy_install	1;"	kind:file	line:1
+easy_install-3.6	../env/bin/easy_install-3.6	1;"	kind:file	line:1
+echo_client_app.py	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	1;"	kind:file	line:1
+echo_server_app.py	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	1;"	kind:file	line:1
+edit	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def edit(self):$/;"	kind:member	line:41
+edit_note	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def edit_note(self, note_index):$/;"	kind:member	line:113
+effectwidget	../env/share/kivy-examples/widgets/effectwidget.py	/^    effectwidget = ObjectProperty()$/;"	kind:variable	line:38
+effectwidget.py	../env/share/kivy-examples/widgets/effectwidget.py	1;"	kind:file	line:1
+effectwidget2.py	../env/share/kivy-examples/widgets/effectwidget2.py	1;"	kind:file	line:1
+effectwidget3_advanced.py	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	1;"	kind:file	line:1
+end	../env/share/kivy-examples/svg/benchmark.py	/^    end = time()$/;"	kind:variable	line:18
+export_popup	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    export_popup = ObjectProperty(GestureExportPopup())$/;"	kind:variable	line:83
+extract	../env/bin/garden	/^    def extract(self, fd, directory):$/;"	kind:member	line:212
+fbo_canvas.py	../env/share/kivy-examples/canvas/fbo_canvas.py	1;"	kind:file	line:1
+fbowidget.py	../env/share/kivy-examples/widgets/fbowidget.py	1;"	kind:file	line:1
+fetch_content	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def fetch_content(self, url):$/;"	kind:member	line:84
+filename	../env/share/kivy-examples/audio/main.py	/^    filename = StringProperty(None)$/;"	kind:variable	line:28
+filename	../env/share/kivy-examples/svg/benchmark.py	/^filename = sys.argv[1]$/;"	kind:variable	line:7
+files	../env/share/kivy-examples/widgets/codeinput.py	/^    files = ListProperty([None, ])$/;"	kind:variable	line:121
+finish_object	../env/share/kivy-examples/3Drendering/objloader.py	/^    def finish_object(self):$/;"	kind:member	line:40
+first_function	../env/share/kivy-examples/kv/ids/kv_and_py/kv_and_py.py	/^    def first_function(self, status):$/;"	kind:member	line:17
+focus_behavior.py	../env/share/kivy-examples/widgets/focus_behavior.py	1;"	kind:file	line:1
+font_context	../env/share/kivy-examples/text/pango_demo.py	/^    font_context = F.StringProperty(None, allownone=True)$/;"	kind:variable	line:10
+font_size	../env/share/kivy-examples/text/pango_demo.py	/^    font_size = F.NumericProperty(10)$/;"	kind:variable	line:11
+fs	../env/share/kivy-examples/demo/shadereditor/main.py	/^    fs = StringProperty(None)$/;"	kind:variable	line:68
+fs	../env/share/kivy-examples/shader/plasma.py	/^    fs = StringProperty(None)$/;"	kind:variable	line:47
+fs	../env/share/kivy-examples/shader/rotated.py	/^    fs = StringProperty(None)$/;"	kind:variable	line:64
+fs	../env/share/kivy-examples/shader/shadertree.py	/^    fs = StringProperty(None)$/;"	kind:variable	line:96
+fullscreen	../env/share/kivy-examples/demo/showcase/main.py	/^    fullscreen = BooleanProperty(False)$/;"	kind:variable	line:40
+garden	../env/bin/garden	1;"	kind:file	line:1
+garden_app_dir	../env/bin/garden	/^garden_app_dir = join(realpath(getcwd()), 'libs', 'garden')$/;"	kind:variable	line:34
+garden_kivy_dir	../env/bin/garden	/^    garden_kivy_dir = None$/;"	kind:variable	line:30
+garden_kivy_dir	../env/bin/garden	/^    garden_kivy_dir = abspath(join(dirname(kivy.__file__), 'garden'))$/;"	kind:variable	line:28
+garden_system_dir	../env/bin/garden	/^garden_system_dir = join(expanduser('~'), '.kivy', 'garden')$/;"	kind:variable	line:33
+gardenify	../env/bin/garden	/^    def gardenify(self, package):$/;"	kind:member	line:182
+gdb	../env/share/kivy-examples/gestures/my_gestures.py	/^gdb = GestureDatabase()$/;"	kind:variable	line:3
+gesture_board.py	../env/share/kivy-examples/gestures/gesture_board.py	1;"	kind:file	line:1
+gesture_list	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    gesture_list = ListProperty([])$/;"	kind:variable	line:31
+gesturedatabase.py	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	1;"	kind:file	line:1
+get_filename	../env/share/kivy-examples/android/takepicture/main.py	/^    def get_filename(self):$/;"	kind:member	line:49
+get_font_list	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    def get_font_list(self):$/;"	kind:member	line:227
+gifScatter	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class gifScatter(Scatter):$/;"	kind:class	line:12
+go_hierarchy_previous	../env/share/kivy-examples/demo/showcase/main.py	/^    def go_hierarchy_previous(self):$/;"	kind:member	line:104
+go_next_screen	../env/share/kivy-examples/demo/showcase/main.py	/^    def go_next_screen(self):$/;"	kind:member	line:91
+go_notes	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def go_notes(self):$/;"	kind:member	line:153
+go_previous_screen	../env/share/kivy-examples/demo/showcase/main.py	/^    def go_previous_screen(self):$/;"	kind:member	line:83
+go_screen	../env/share/kivy-examples/demo/showcase/main.py	/^    def go_screen(self, idx):$/;"	kind:member	line:99
+goto_database_screen	../env/share/kivy-examples/demo/multistroke/main.py	/^    def goto_database_screen(self, *l):$/;"	kind:member	line:46
+goto_node	../env/share/kivy-examples/widgets/compound_selection.py	/^    def goto_node(self, key, last_node, last_node_idx):$/;"	kind:member	line:32
+grid	../env/share/kivy-examples/widgets/textalign.py	/^    grid = ObjectProperty(None)$/;"	kind:variable	line:13
+halign	../env/share/kivy-examples/widgets/label_sizing.py	/^    halign = StringProperty('left')$/;"	kind:variable	line:151
+handle_clear	../env/share/kivy-examples/widgets/colorpicker.py	/^    def handle_clear(self):$/;"	kind:member	line:228
+handle_gesture_cleanup	../env/share/kivy-examples/demo/multistroke/main.py	/^    def handle_gesture_cleanup(self, surface, g, *l):$/;"	kind:member	line:50
+handle_gesture_complete	../env/share/kivy-examples/demo/multistroke/main.py	/^    def handle_gesture_complete(self, surface, g, *l):$/;"	kind:member	line:64
+handle_gesture_discard	../env/share/kivy-examples/demo/multistroke/main.py	/^    def handle_gesture_discard(self, surface, g, *l):$/;"	kind:member	line:54
+handle_message	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    def handle_message(self, msg):$/;"	kind:member	line:36
+handle_recognize_complete	../env/share/kivy-examples/demo/multistroke/main.py	/^    def handle_recognize_complete(self, result, *l):$/;"	kind:member	line:69
+handledrops	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^    def handledrops(self, *args):$/;"	kind:member	line:41
+headers	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    headers = DictProperty()$/;"	kind:variable	line:79
+hello_kivy.py	../hello_kivy.py	1;"	kind:file	line:1
+helpers.py	../env/share/kivy-examples/demo/multistroke/helpers.py	1;"	kind:file	line:1
+hierarchy	../env/share/kivy-examples/demo/showcase/main.py	/^    hierarchy = ListProperty([])$/;"	kind:variable	line:56
+historymanager.py	../env/share/kivy-examples/demo/multistroke/historymanager.py	1;"	kind:file	line:1
+hue	../env/share/kivy-examples/widgets/screenmanager.py	/^    hue = NumericProperty(0)$/;"	kind:variable	line:93
+icon	../env/share/kivy-examples/demo/touchtracer/main.py	/^    icon = 'icon.png'$/;"	kind:variable	line:146
+id_in_kv.py	../env/share/kivy-examples/kv/ids/id_in_kv/id_in_kv.py	1;"	kind:file	line:1
+image_mipmap.py	../env/share/kivy-examples/widgets/image_mipmap.py	1;"	kind:file	line:1
+imagesave.py	../env/share/kivy-examples/miscellaneous/imagesave.py	1;"	kind:file	line:1
+img	../env/share/kivy-examples/miscellaneous/imagesave.py	/^img = Image.load("data\/logo\/kivy-icon-512.png")$/;"	kind:variable	line:6
+import_gdb	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def import_gdb(self):$/;"	kind:member	line:93
+import_popup	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    import_popup = ObjectProperty(GestureImportPopup())$/;"	kind:variable	line:84
+index	../env/share/kivy-examples/demo/showcase/main.py	/^    index = NumericProperty(-1)$/;"	kind:variable	line:50
+index	../env/share/kivy-examples/kinect/kinectviewer.py	/^    index = NumericProperty(0)$/;"	kind:variable	line:174
+info	../env/share/kivy-examples/guide/designwithkv/main.py	/^    info = StringProperty()$/;"	kind:variable	line:15
+info_popup	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    info_popup = ObjectProperty(InformationPopup())$/;"	kind:variable	line:85
+insert	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def insert(self, value):$/;"	kind:member	line:100
+joint	../env/share/kivy-examples/canvas/lines.py	/^    joint = OptionProperty('none', options=('round', 'miter', 'bevel', 'none'))$/;"	kind:variable	line:236
+joy_motion	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def joy_motion(self, event, id, axis, value):$/;"	kind:member	line:37
+joystick.py	../env/share/kivy-examples/miscellaneous/joystick.py	1;"	kind:file	line:1
+jpgScatter	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class jpgScatter(Scatter):$/;"	kind:class	line:22
+kbContainer	../env/share/kivy-examples/keyboard/main.py	/^    kbContainer = ObjectProperty()$/;"	kind:variable	line:159
+keep_ratio	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    keep_ratio = BooleanProperty(False)$/;"	kind:variable	line:16
+key_down	../env/share/kivy-examples/keyboard/main.py	/^    def key_down(self, keyboard, keycode, text, modifiers):$/;"	kind:member	line:200
+key_up	../env/share/kivy-examples/keyboard/main.py	/^    def key_up(self, keyboard, keycode, *args):$/;"	kind:member	line:205
+keyboard_mode	../env/share/kivy-examples/keyboard/main.py	/^    keyboard_mode = ""$/;"	kind:variable	line:117
+keyboard_on_key_down	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def keyboard_on_key_down(self, window, keycode, text, modifiers):$/;"	kind:member	line:78
+keyboard_on_key_down	../env/share/kivy-examples/widgets/compound_selection.py	/^    def keyboard_on_key_down(self, window, keycode, text, modifiers):$/;"	kind:member	line:17
+keyboard_on_key_down	../env/share/kivy-examples/widgets/focus_behavior.py	/^    def keyboard_on_key_down(self, window, keycode, text, modifiers):$/;"	kind:member	line:36
+keyboard_on_key_up	../env/share/kivy-examples/widgets/compound_selection.py	/^    def keyboard_on_key_up(self, window, keycode):$/;"	kind:member	line:25
+keyboardlistener.py	../env/share/kivy-examples/widgets/keyboardlistener.py	1;"	kind:file	line:1
+kinectviewer.py	../env/share/kivy-examples/kinect/kinectviewer.py	1;"	kind:file	line:1
+kivy_tutorial.py	../kivy_tutorial.py	1;"	kind:file	line:1
+kv	../env/share/kivy-examples/application/app_suite.py	/^    kv = "<Prebuilt>\\n  Button:\\n    text:'hello from TestPrebuiltApp'"$/;"	kind:variable	line:82
+kv_and_py.py	../env/share/kivy-examples/kv/ids/kv_and_py/kv_and_py.py	1;"	kind:file	line:1
+kv_directory	../env/share/kivy-examples/application/app_suite.py	/^    kv_directory = 'app_suite_data'$/;"	kind:variable	line:61
+kv_directory	../env/share/kivy-examples/application/app_with_kv_in_template1.py	/^    kv_directory = 'template1'$/;"	kind:variable	line:23
+kv_file	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def kv_file(self):$/;"	kind:member	line:66
+kvrun.py	../env/share/kivy-examples/kv/kvrun.py	1;"	kind:file	line:1
+label	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    label = None$/;"	kind:variable	line:48
+label	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    label = None$/;"	kind:variable	line:29
+label	../env/share/kivy-examples/widgets/textinput.py	/^    label = Label(text=lbl, size_hint_y=None, height=50, pos_hint={'top': 1})$/;"	kind:variable	line:48
+label_mipmap.py	../env/share/kivy-examples/widgets/label_mipmap.py	1;"	kind:file	line:1
+label_sizing.py	../env/share/kivy-examples/widgets/label_sizing.py	1;"	kind:file	line:1
+label_text_size.py	../env/share/kivy-examples/widgets/label_text_size.py	1;"	kind:file	line:1
+label_wid	../env/share/kivy-examples/guide/designwithkv/main.py	/^    label_wid = ObjectProperty()$/;"	kind:variable	line:14
+label_with_markup.py	../env/share/kivy-examples/widgets/label_with_markup.py	1;"	kind:file	line:1
+lang_dynamic_classes.py	../env/share/kivy-examples/widgets/lang_dynamic_classes.py	1;"	kind:file	line:1
+language_box	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    language_box = ObjectProperty()$/;"	kind:variable	line:115
+lbl	../env/share/kivy-examples/widgets/textinput.py	/^    lbl = 'Configuration keyboard_mode is %r, keyboard_layout is %r' % ($/;"	kind:variable	line:45
+lines.py	../env/share/kivy-examples/canvas/lines.py	1;"	kind:file	line:1
+lines_extended.py	../env/share/kivy-examples/canvas/lines_extended.py	1;"	kind:file	line:1
+linewidth	../env/share/kivy-examples/canvas/lines.py	/^    linewidth = NumericProperty(10.0)$/;"	kind:variable	line:238
+load	../env/share/kivy-examples/RST_Editor/main.py	/^    def load(self, path, filename):$/;"	kind:member	line:41
+load	../env/share/kivy-examples/RST_Editor/main.py	/^    load = ObjectProperty(None)$/;"	kind:variable	line:11
+load	../env/share/kivy-examples/widgets/codeinput.py	/^    def load(self, path, selection):$/;"	kind:member	line:88
+load	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    def load(self, _path, _fname):$/;"	kind:function	line:205
+load	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    load = ObjectProperty(None)$/;"	kind:variable	line:120
+load_images	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^        def load_images(*l):$/;"	kind:function	line:88
+load_notes	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def load_notes(self):$/;"	kind:member	line:96
+load_screen	../env/share/kivy-examples/demo/showcase/main.py	/^    def load_screen(self, index):$/;"	kind:member	line:114
+load_visualizer	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def load_visualizer(self, visualizer):$/;"	kind:member	line:177
+loadfile	../env/share/kivy-examples/RST_Editor/main.py	/^    loadfile = ObjectProperty(None)$/;"	kind:variable	line:22
+main	../env/bin/garden	/^    def main(self, argv):$/;"	kind:member	line:41
+main	../env/bin/rst2odt_prepstyles.py	/^def main():$/;"	kind:function	line:54
+main-smaa.py	../env/share/kivy-examples/svg/main-smaa.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/3Drendering/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/RST_Editor/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/android/compass/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/android/takepicture/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/audio/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/camera/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/container/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/kivycatalog/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/multistroke/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/pictures/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/shadereditor/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/showcase/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/demo/touchtracer/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/guide/designwithkv/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/guide/quickstart/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/includes/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/keyboard/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/settings/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/svg/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/notes/final/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/steps/step1/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/steps/step2/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	1;"	kind:file	line:1
+main.py	../env/share/kivy-examples/widgets/sequenced_images/main.py	1;"	kind:file	line:1
+mainApp	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class mainApp(App):$/;"	kind:class	line:140
+main_root_widget	../env/share/kivy-examples/widgets/colorpicker.py	/^    main_root_widget = ObjectProperty(None)$/;"	kind:variable	line:211
+mainclass	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class mainclass(FloatLayout):$/;"	kind:class	line:48
+make_labels	../env/share/kivy-examples/miscellaneous/clipboard.py	/^    def make_labels(self, values):$/;"	kind:member	line:44
+make_pretty_labels	../env/share/kivy-examples/miscellaneous/clipboard.py	/^    def make_pretty_labels(self, values):$/;"	kind:member	line:53
+mass_select	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def mass_select(self, *l):$/;"	kind:member	line:114
+max	../env/share/kivy-examples/demo/multistroke/settings.py	/^    max = NumericProperty(100)$/;"	kind:variable	line:50
+max_lines	../env/share/kivy-examples/widgets/label_sizing.py	/^    max_lines = NumericProperty(0)$/;"	kind:variable	line:153
+mesh.py	../env/share/kivy-examples/canvas/mesh.py	1;"	kind:file	line:1
+mesh_manipulation.py	../env/share/kivy-examples/canvas/mesh_manipulation.py	1;"	kind:file	line:1
+mesh_points	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    mesh_points = ListProperty([])$/;"	kind:variable	line:68
+mesh_texture	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    mesh_texture = ObjectProperty(None)$/;"	kind:variable	line:69
+min	../env/share/kivy-examples/demo/multistroke/settings.py	/^    min = NumericProperty(0)$/;"	kind:variable	line:49
+mode_spinner	../env/share/kivy-examples/keyboard/main.py	/^    mode_spinner = ObjectProperty()$/;"	kind:variable	line:115
+move	../env/share/kivy-examples/tutorials/pong/main.py	/^    def move(self):$/;"	kind:member	line:34
+move	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^    def move(self):$/;"	kind:member	line:12
+move	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    def move(self):$/;"	kind:member	line:16
+move	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def move(self):$/;"	kind:member	line:27
+move_collider	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def move_collider(self, offset_x, offset_y, *args):$/;"	kind:member	line:83
+move_label	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def move_label(self, x, y, *args):$/;"	kind:member	line:79
+multiline	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    multiline = BooleanProperty(True)$/;"	kind:variable	line:25
+multiple_dropfile.py	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	1;"	kind:file	line:1
+multitexture.py	../env/share/kivy-examples/canvas/multitexture.py	1;"	kind:file	line:1
+my_gestures.py	../env/share/kivy-examples/gestures/my_gestures.py	1;"	kind:file	line:1
+name	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    name = StringProperty('(no name)')$/;"	kind:variable	line:29
+name	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    name = StringProperty('')$/;"	kind:variable	line:63
+needle_angle	../env/share/kivy-examples/android/compass/main.py	/^    needle_angle = NumericProperty(0)$/;"	kind:variable	line:38
+next	../env/share/kivy-examples/keyboard/main.py	/^    def next(self):$/;"	kind:member	line:148
+next_screen	../env/share/kivy-examples/container/main.py	/^    def next_screen(self, screen):$/;"	kind:member	line:39
+note_content	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_content = StringProperty()$/;"	kind:variable	line:62
+note_content	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_content = StringProperty()$/;"	kind:variable	line:66
+note_index	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_index = NumericProperty()$/;"	kind:variable	line:60
+note_index	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_index = NumericProperty()$/;"	kind:variable	line:68
+note_title	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_title = StringProperty()$/;"	kind:variable	line:61
+note_title	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    note_title = StringProperty()$/;"	kind:variable	line:67
+notes_fn	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def notes_fn(self):$/;"	kind:member	line:158
+number	../env/share/kivy-examples/application/app_with_config.py	/^    number = ConfigParserProperty($/;"	kind:variable	line:26
+objloader.py	../env/share/kivy-examples/3Drendering/objloader.py	1;"	kind:file	line:1
+offset_x	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    offset_x = NumericProperty(.5)$/;"	kind:variable	line:71
+offset_y	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    offset_y = NumericProperty(.5)$/;"	kind:variable	line:72
+on_activity_result	../env/share/kivy-examples/android/takepicture/main.py	/^    def on_activity_result(self, requestCode, resultCode, intent):$/;"	kind:member	line:65
+on_alpha	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def on_alpha(self, instance, value):$/;"	kind:member	line:69
+on_blocksize	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def on_blocksize(self, instance, value):$/;"	kind:member	line:32
+on_close	../env/share/kivy-examples/settings/main.py	/^    def on_close(self):$/;"	kind:member	line:113
+on_collision	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_collision(self, pair, *args):$/;"	kind:member	line:361
+on_config_change	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def on_config_change(self, config, section, key, value):$/;"	kind:member	line:269
+on_config_change	../env/share/kivy-examples/settings/main.py	/^    def on_config_change(self, config, section, key, value):$/;"	kind:member	line:116
+on_config_change	../env/share/kivy-examples/settings/main.py	/^    def on_config_change(self, config, section, key, value):$/;"	kind:member	line:83
+on_connection	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def on_connection(self, connection):$/;"	kind:member	line:67
+on_currentObj	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def on_currentObj(self, *l):$/;"	kind:member	line:136
+on_current_title	../env/share/kivy-examples/demo/showcase/main.py	/^    def on_current_title(self, instance, value):$/;"	kind:member	line:80
+on_debug_collider	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_debug_collider(self, instance, value):$/;"	kind:member	line:92
+on_deselect	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def on_deselect(*l):$/;"	kind:member	line:76
+on_deselect	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def on_deselect(self, *l):$/;"	kind:member	line:275
+on_dropfile	../env/share/kivy-examples/miscellaneous/multiple_dropfile.py	/^    def on_dropfile(self, widget, filename):$/;"	kind:member	line:17
+on_error	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def on_error(self, req, result):$/;"	kind:member	line:122
+on_failure	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def on_failure(self, req, result):$/;"	kind:member	line:116
+on_files	../env/share/kivy-examples/widgets/codeinput.py	/^    def on_files(self, instance, values):$/;"	kind:member	line:209
+on_focused	../env/share/kivy-examples/widgets/focus_behavior.py	/^    def on_focused(self, instance, value, *largs):$/;"	kind:member	line:27
+on_fs	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def on_fs(self, instance, value):$/;"	kind:member	line:83
+on_fs	../env/share/kivy-examples/shader/plasma.py	/^    def on_fs(self, instance, value):$/;"	kind:member	line:61
+on_fs	../env/share/kivy-examples/shader/rotated.py	/^    def on_fs(self, instance, value):$/;"	kind:member	line:83
+on_fs	../env/share/kivy-examples/shader/shadertree.py	/^    def on_fs(self, instance, value):$/;"	kind:member	line:128
+on_index	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def on_index(self, instance, value):$/;"	kind:member	line:201
+on_joy_axis	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def on_joy_axis(self, win, stickid, axisid, value):$/;"	kind:member	line:61
+on_joy_ball	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def on_joy_ball(self, win, stickid, ballid, xvalue, yvalue):$/;"	kind:member	line:64
+on_joy_button_down	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def on_joy_button_down(self, win, stickid, buttonid):$/;"	kind:member	line:70
+on_joy_button_up	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def on_joy_button_up(self, win, stickid, buttonid):$/;"	kind:member	line:73
+on_joy_hat	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def on_joy_hat(self, win, stickid, hatid, value):$/;"	kind:member	line:67
+on_parent	../env/share/kivy-examples/widgets/colorpicker.py	/^    def on_parent(self, instance, parent):$/;"	kind:member	line:201
+on_pause	../env/share/kivy-examples/android/compass/main.py	/^    def on_pause(self):$/;"	kind:member	line:66
+on_pause	../env/share/kivy-examples/android/takepicture/main.py	/^    def on_pause(self):$/;"	kind:member	line:76
+on_pause	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def on_pause(self):$/;"	kind:member	line:187
+on_pause	../env/share/kivy-examples/demo/pictures/main.py	/^    def on_pause(self):$/;"	kind:member	line:68
+on_pause	../env/share/kivy-examples/demo/showcase/main.py	/^    def on_pause(self):$/;"	kind:member	line:74
+on_pause	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def on_pause(self):$/;"	kind:member	line:151
+on_poly	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_poly(self, instance, value):$/;"	kind:member	line:96
+on_pos	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def on_pos(self, instance, value):$/;"	kind:member	line:63
+on_pos	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_pos(self, instance, pos):$/;"	kind:member	line:104
+on_pos	../env/share/kivy-examples/shader/shadertree.py	/^    def on_pos(self, instance, value):$/;"	kind:member	line:159
+on_pos	../env/share/kivy-examples/widgets/fbowidget.py	/^    def on_pos(self, instance, value):$/;"	kind:member	line:76
+on_pre_enter	../env/share/kivy-examples/keyboard/main.py	/^    def on_pre_enter(self, *args):$/;"	kind:member	line:119
+on_press	../env/share/kivy-examples/audio/main.py	/^    def on_press(self):$/;"	kind:member	line:32
+on_press	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_press(self):$/;"	kind:member	line:94
+on_reanalyze_selected	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def on_reanalyze_selected(self, *l):$/;"	kind:member	line:157
+on_release	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_release(self):$/;"	kind:member	line:97
+on_resume	../env/share/kivy-examples/android/compass/main.py	/^    def on_resume(self):$/;"	kind:member	line:71
+on_resume	../env/share/kivy-examples/demo/showcase/main.py	/^    def on_resume(self):$/;"	kind:member	line:77
+on_select	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def on_select(*l):$/;"	kind:member	line:73
+on_select	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def on_select(self, *l):$/;"	kind:member	line:272
+on_settings_cls	../env/share/kivy-examples/widgets/settings.py	/^    def on_settings_cls(self, *args):$/;"	kind:member	line:60
+on_shader	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def on_shader(self, instance, value):$/;"	kind:member	line:204
+on_shape	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_shape(self, instance, value):$/;"	kind:member	line:100
+on_shape_image	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^    def on_shape_image(self, instance, value):$/;"	kind:member	line:82
+on_size	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def on_size(self, instance, value):$/;"	kind:member	line:58
+on_size	../env/share/kivy-examples/shader/shadertree.py	/^    def on_size(self, instance, value):$/;"	kind:member	line:154
+on_size	../env/share/kivy-examples/widgets/fbowidget.py	/^    def on_size(self, instance, value):$/;"	kind:member	line:71
+on_start	../env/share/kivy-examples/widgets/label_sizing.py	/^    def on_start(self):$/;"	kind:member	line:159
+on_success	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    def on_success(self, req, result):$/;"	kind:member	line:99
+on_tex_changed	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_tex_changed(self, *largs):$/;"	kind:member	line:56
+on_textedit_event.py	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	1;"	kind:file	line:1
+on_texture	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def on_texture(self, instance, value):$/;"	kind:member	line:66
+on_texture	../env/share/kivy-examples/shader/shadertree.py	/^    def on_texture(self, instance, value):$/;"	kind:member	line:162
+on_texture	../env/share/kivy-examples/widgets/fbowidget.py	/^    def on_texture(self, instance, value):$/;"	kind:member	line:79
+on_texture_size	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def on_texture_size(self, instance, value):$/;"	kind:member	line:29
+on_texture_wrap	../env/share/kivy-examples/canvas/texture.py	/^    def on_texture_wrap(self, instance, value):$/;"	kind:member	line:37
+on_touch	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    def on_touch(self, *args, **kwargs):$/;"	kind:member	line:34
+on_touch_down	../env/share/kivy-examples/canvas/bezier.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:61
+on_touch_down	../env/share/kivy-examples/canvas/lines.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:246
+on_touch_down	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:29
+on_touch_down	../env/share/kivy-examples/canvas/tesselate.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:64
+on_touch_down	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:74
+on_touch_down	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:232
+on_touch_down	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:81
+on_touch_down	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:57
+on_touch_down	../env/share/kivy-examples/gestures/gesture_board.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:37
+on_touch_down	../env/share/kivy-examples/guide/firstwidget/2_print_touch.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:6
+on_touch_down	../env/share/kivy-examples/guide/firstwidget/3_draw_ellipse.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:8
+on_touch_down	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:8
+on_touch_down	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:9
+on_touch_down	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:10
+on_touch_down	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_touch_down(self, touch, *args):$/;"	kind:member	line:231
+on_touch_down	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_touch_down(self, touch, *args):$/;"	kind:member	line:316
+on_touch_down	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:36
+on_touch_down	../env/share/kivy-examples/widgets/colorpicker.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:148
+on_touch_down	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:44
+on_touch_down	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_touch_down(self, touch):$/;"	kind:member	line:65
+on_touch_move	../env/share/kivy-examples/canvas/bezier.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:78
+on_touch_move	../env/share/kivy-examples/canvas/lines.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:253
+on_touch_move	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:33
+on_touch_move	../env/share/kivy-examples/canvas/tesselate.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:72
+on_touch_move	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:81
+on_touch_move	../env/share/kivy-examples/gestures/gesture_board.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:48
+on_touch_move	../env/share/kivy-examples/guide/firstwidget/4_draw_line.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:15
+on_touch_move	../env/share/kivy-examples/guide/firstwidget/5_random_colors.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:17
+on_touch_move	../env/share/kivy-examples/guide/firstwidget/6_button.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:18
+on_touch_move	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def on_touch_move(self, touch, *args):$/;"	kind:member	line:148
+on_touch_move	../env/share/kivy-examples/tutorials/pong/main.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:66
+on_touch_move	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:59
+on_touch_move	../env/share/kivy-examples/widgets/colorpicker.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:165
+on_touch_move	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:48
+on_touch_move	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_touch_move(self, touch):$/;"	kind:member	line:79
+on_touch_up	../env/share/kivy-examples/canvas/bezier.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:71
+on_touch_up	../env/share/kivy-examples/canvas/lines.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:259
+on_touch_up	../env/share/kivy-examples/canvas/tesselate.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:80
+on_touch_up	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:128
+on_touch_up	../env/share/kivy-examples/gestures/gesture_board.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:56
+on_touch_up	../env/share/kivy-examples/widgets/colorpicker.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:185
+on_touch_up	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    def on_touch_up(self, touch):$/;"	kind:member	line:82
+on_validate	../env/share/kivy-examples/demo/multistroke/settings.py	/^    def on_validate(self, *l):$/;"	kind:member	line:44
+on_value	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def on_value(self, puzzle, instance, value):$/;"	kind:member	line:92
+on_value	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^    def on_value(self, *l):$/;"	kind:member	line:34
+on_vs	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def on_vs(self, instance, value):$/;"	kind:member	line:86
+output	../env/bin/rst2odt.py	/^output = publish_cmdline_to_binary(reader=reader, writer=writer,$/;"	kind:variable	line:28
+p1	../env/share/kivy-examples/widgets/customcollide.py	/^    p1 = ListProperty([0, 0])$/;"	kind:variable	line:70
+p2	../env/share/kivy-examples/widgets/customcollide.py	/^    p2 = ListProperty([0, 0])$/;"	kind:variable	line:71
+p3	../env/share/kivy-examples/widgets/customcollide.py	/^    p3 = ListProperty([0, 0])$/;"	kind:variable	line:72
+pagelayout.py	../env/share/kivy-examples/widgets/pagelayout.py	1;"	kind:file	line:1
+pango_demo.py	../env/share/kivy-examples/text/pango_demo.py	1;"	kind:file	line:1
+perform_export	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def perform_export(self, *l):$/;"	kind:member	line:141
+perform_import	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def perform_import(self, filechooser, *l):$/;"	kind:member	line:157
+pip	../env/bin/pip	1;"	kind:file	line:1
+pip3	../env/bin/pip3	1;"	kind:file	line:1
+pip3.6	../env/bin/pip3.6	1;"	kind:file	line:1
+pitch.py	../env/share/kivy-examples/audio/pitch.py	1;"	kind:file	line:1
+plasma.py	../env/share/kivy-examples/shader/plasma.py	1;"	kind:file	line:1
+play_note	../env/share/kivy-examples/audio/pitch.py	/^    def play_note(self, button):$/;"	kind:member	line:37
+player1	../env/share/kivy-examples/tutorials/pong/main.py	/^    player1 = ObjectProperty(None)$/;"	kind:variable	line:40
+player1	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    player1 = ObjectProperty(None)$/;"	kind:variable	line:33
+player2	../env/share/kivy-examples/tutorials/pong/main.py	/^    player2 = ObjectProperty(None)$/;"	kind:variable	line:41
+player2	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    player2 = ObjectProperty(None)$/;"	kind:variable	line:34
+point_inside_polygon	../env/share/kivy-examples/widgets/customcollide.py	/^def point_inside_polygon(x, y, poly):$/;"	kind:function	line:48
+points	../env/share/kivy-examples/canvas/lines.py	/^    points = ListProperty([(500, 500),$/;"	kind:variable	line:232
+points2	../env/share/kivy-examples/canvas/lines.py	/^    points2 = ListProperty([])$/;"	kind:variable	line:235
+poly	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    poly = ListProperty([])$/;"	kind:variable	line:64
+poly_len	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    poly_len = NumericProperty(0)$/;"	kind:variable	line:66
+pop	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def pop(self):$/;"	kind:member	line:164
+populate	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def populate(self):$/;"	kind:member	line:90
+popup_with_kv.py	../env/share/kivy-examples/widgets/popup_with_kv.py	1;"	kind:file	line:1
+pos_hint	../env/share/kivy-examples/widgets/spinner.py	/^    pos_hint={'center_x': .5, 'center_y': .5})$/;"	kind:variable	line:8
+prepare	../env/share/kivy-examples/canvas/rounded_rectangle.py	/^    def prepare(self):$/;"	kind:member	line:15
+prepare	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def prepare(self, *args):$/;"	kind:member	line:31
+prepstyle	../env/bin/rst2odt_prepstyles.py	/^def prepstyle(filename):$/;"	kind:function	line:27
+print_class	../env/share/kivy-examples/application/app_suite.py	/^def print_class(class_name):$/;"	kind:function	line:96
+print_message	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def print_message(self, msg):$/;"	kind:member	line:77
+print_selection	../env/share/kivy-examples/widgets/compound_selection.py	/^        def print_selection(*l):$/;"	kind:function	line:13
+print_values	../env/share/kivy-examples/miscellaneous/joystick.py	/^    def print_values(self, *args):$/;"	kind:member	line:34
+protocol	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    protocol = EchoClient$/;"	kind:variable	line:21
+protocol	../env/share/kivy-examples/frameworks/twisted/echo_server_app.py	/^    protocol = EchoServer$/;"	kind:variable	line:18
+push_shape	../env/share/kivy-examples/canvas/tesselate.py	/^    def push_shape(self):$/;"	kind:member	line:87
+pygmentize	../env/bin/pygmentize	1;"	kind:file	line:1
+radius	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    radius = NumericProperty(500)$/;"	kind:variable	line:70
+read_sourcecode	../env/share/kivy-examples/demo/showcase/main.py	/^    def read_sourcecode(self):$/;"	kind:member	line:121
+reader	../env/bin/rst2odt.py	/^reader = Reader()$/;"	kind:variable	line:27
+reanalyze_selected	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def reanalyze_selected(self, *l):$/;"	kind:member	line:37
+recognizer	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    recognizer = ObjectProperty(None)$/;"	kind:variable	line:82
+refresh_notes	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def refresh_notes(self):$/;"	kind:member	line:148
+release_all_keyboard	../env/share/kivy-examples/widgets/textinput.py	/^    def release_all_keyboard(*l):$/;"	kind:function	line:37
+release_audio	../env/share/kivy-examples/audio/main.py	/^    def release_audio(self):$/;"	kind:member	line:41
+release_audio	../env/share/kivy-examples/audio/main.py	/^    def release_audio(self):$/;"	kind:member	line:71
+remove	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def remove(self):$/;"	kind:member	line:108
+remove_widget	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    def remove_widget(self, *largs):$/;"	kind:member	line:52
+remove_widget	../env/share/kivy-examples/shader/shadertree.py	/^    def remove_widget(self, widget):$/;"	kind:member	line:148
+remove_widget	../env/share/kivy-examples/widgets/fbowidget.py	/^    def remove_widget(self, *largs):$/;"	kind:member	line:65
+repeat_texture.py	../env/share/kivy-examples/canvas/repeat_texture.py	1;"	kind:file	line:1
+reset	../env/share/kivy-examples/canvas/tesselate.py	/^    def reset(self):$/;"	kind:member	line:133
+reset_gl_context	../env/share/kivy-examples/3Drendering/main.py	/^    def reset_gl_context(self, *args):$/;"	kind:member	line:43
+reset_rects	../env/share/kivy-examples/canvas/canvas_stress.py	/^    def reset_rects(self, label, wid, *largs):$/;"	kind:member	line:36
+reset_rects	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def reset_rects(self, label, wid, *largs):$/;"	kind:member	line:51
+reset_stencil	../env/share/kivy-examples/canvas/stencil_canvas.py	/^    def reset_stencil(self, wid, *largs):$/;"	kind:member	line:47
+reset_words	../env/share/kivy-examples/widgets/label_sizing.py	/^    def reset_words(self):$/;"	kind:member	line:166
+result_image	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    result_image = StringProperty()$/;"	kind:variable	line:78
+result_text	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    result_text = StringProperty()$/;"	kind:variable	line:77
+ret	../env/share/kivy-examples/miscellaneous/imagesave.py	/^ret = img.save(bio, fmt="jpg")$/;"	kind:variable	line:13
+ret	../env/share/kivy-examples/miscellaneous/imagesave.py	/^ret = img.save(bio, fmt="png")$/;"	kind:variable	line:9
+root	../env/share/kivy-examples/widgets/compound_selection.py	/^root = SelectableGrid(cols=5, up_count=5, multiselect=True, scroll_count=1)$/;"	kind:variable	line:76
+root	../env/share/kivy-examples/widgets/textinput.py	/^    root = FloatLayout()$/;"	kind:variable	line:34
+rotated.py	../env/share/kivy-examples/shader/rotated.py	1;"	kind:file	line:1
+rotation.py	../env/share/kivy-examples/canvas/rotation.py	1;"	kind:file	line:1
+rounded_rectangle.py	../env/share/kivy-examples/canvas/rounded_rectangle.py	1;"	kind:file	line:1
+rst2html.py	../env/bin/rst2html.py	1;"	kind:file	line:1
+rst2html4.py	../env/bin/rst2html4.py	1;"	kind:file	line:1
+rst2html5.py	../env/bin/rst2html5.py	1;"	kind:file	line:1
+rst2latex.py	../env/bin/rst2latex.py	1;"	kind:file	line:1
+rst2man.py	../env/bin/rst2man.py	1;"	kind:file	line:1
+rst2odt.py	../env/bin/rst2odt.py	1;"	kind:file	line:1
+rst2odt_prepstyles.py	../env/bin/rst2odt_prepstyles.py	1;"	kind:file	line:1
+rst2pseudoxml.py	../env/bin/rst2pseudoxml.py	1;"	kind:file	line:1
+rst2s5.py	../env/bin/rst2s5.py	1;"	kind:file	line:1
+rst2xetex.py	../env/bin/rst2xetex.py	1;"	kind:file	line:1
+rst2xml.py	../env/bin/rst2xml.py	1;"	kind:file	line:1
+rstexample.py	../env/share/kivy-examples/widgets/rstexample.py	1;"	kind:file	line:1
+rstpep2html.py	../env/bin/rstpep2html.py	1;"	kind:file	line:1
+run	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^    def run(self):$/;"	kind:member	line:20
+run	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def run(self):$/;"	kind:member	line:155
+running	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	/^    running = BooleanProperty(False)$/;"	kind:variable	line:43
+s	../env/share/kivy-examples/svg/benchmark.py	/^    s = pstats.Stats("Profile.prof")$/;"	kind:variable	line:12
+s	../env/share/kivy-examples/widgets/textinput.py	/^    s = Scatter(size_hint=(None, None), pos=(300, 300))$/;"	kind:variable	line:51
+s	../env/share/kivy-examples/widgets/textinput.py	/^    s = Scatter(size_hint=(None, None), pos=(400, 300), rotation=45)$/;"	kind:variable	line:55
+save	../env/share/kivy-examples/RST_Editor/main.py	/^    def save(self, path, filename):$/;"	kind:member	line:47
+save	../env/share/kivy-examples/RST_Editor/main.py	/^    save = ObjectProperty(None)$/;"	kind:variable	line:16
+save	../env/share/kivy-examples/widgets/codeinput.py	/^    def save(self, path, selection):$/;"	kind:member	line:100
+save_notes	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def save_notes(self):$/;"	kind:member	line:103
+save_selection_to_file	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def save_selection_to_file(self, filename, *l):$/;"	kind:member	line:167
+savefile	../env/share/kivy-examples/RST_Editor/main.py	/^    savefile = ObjectProperty(None)$/;"	kind:variable	line:23
+scale.py	../env/share/kivy-examples/canvas/scale.py	1;"	kind:file	line:1
+scatter.py	../env/share/kivy-examples/widgets/scatter.py	1;"	kind:file	line:1
+schedule_reload	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def schedule_reload(self):$/;"	kind:member	line:140
+score	../env/share/kivy-examples/tutorials/pong/main.py	/^    score = NumericProperty(0)$/;"	kind:variable	line:14
+score	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    score = NumericProperty(0)$/;"	kind:variable	line:11
+screen_manager	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    screen_manager = ObjectProperty()$/;"	kind:variable	line:116
+screen_names	../env/share/kivy-examples/demo/showcase/main.py	/^    screen_names = ListProperty([])$/;"	kind:variable	line:55
+screenmanager.py	../env/share/kivy-examples/widgets/screenmanager.py	1;"	kind:file	line:1
+scrollview.py	../env/share/kivy-examples/widgets/scrollview.py	1;"	kind:file	line:1
+select	../env/share/kivy-examples/widgets/textalign.py	/^    def select(self, case):$/;"	kind:member	line:18
+select_item	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def select_item(self, *l):$/;"	kind:member	line:108
+select_node	../env/share/kivy-examples/widgets/compound_selection.py	/^    def select_node(self, node):$/;"	kind:member	line:58
+selected	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    selected = BooleanProperty(False)$/;"	kind:variable	line:218
+selected	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    selected = ObjectProperty(None, allownone=True)$/;"	kind:variable	line:27
+selected_count	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    selected_count = NumericProperty(0)$/;"	kind:variable	line:81
+send_message	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def send_message(self, *args):$/;"	kind:member	line:71
+serve_ball	../env/share/kivy-examples/tutorials/pong/main.py	/^    def serve_ball(self, vel=(4, 0)):$/;"	kind:member	line:43
+serve_ball	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    def serve_ball(self):$/;"	kind:member	line:23
+serve_ball	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def serve_ball(self, vel=(4, 0)):$/;"	kind:member	line:36
+set_display_type	../env/share/kivy-examples/widgets/settings.py	/^    def set_display_type(self, display_type):$/;"	kind:member	line:66
+set_layout	../env/share/kivy-examples/keyboard/main.py	/^    def set_layout(self, layout, button):$/;"	kind:member	line:178
+set_mode	../env/share/kivy-examples/keyboard/main.py	/^    def set_mode(self, mode):$/;"	kind:member	line:141
+set_note_content	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def set_note_content(self, note_index, note_content):$/;"	kind:member	line:135
+set_note_title	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def set_note_title(self, note_index, note_title):$/;"	kind:member	line:143
+set_settings_cls	../env/share/kivy-examples/widgets/settings.py	/^    def set_settings_cls(self, panel_type):$/;"	kind:member	line:63
+set_volume	../env/share/kivy-examples/audio/main.py	/^    def set_volume(self, value):$/;"	kind:member	line:75
+set_volume	../env/share/kivy-examples/audio/main.py	/^    def set_volume(self, volume):$/;"	kind:member	line:47
+settings.py	../env/share/kivy-examples/demo/multistroke/settings.py	1;"	kind:file	line:1
+settings.py	../env/share/kivy-examples/widgets/settings.py	1;"	kind:file	line:1
+settings_popup	../env/share/kivy-examples/widgets/settings.py	/^    settings_popup = ObjectProperty(None, allownone=True)$/;"	kind:variable	line:16
+setup_gl_context	../env/share/kivy-examples/3Drendering/main.py	/^    def setup_gl_context(self, *args):$/;"	kind:member	line:40
+setup_gui	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def setup_gui(self):$/;"	kind:member	line:55
+setup_scene	../env/share/kivy-examples/3Drendering/main.py	/^    def setup_scene(self):$/;"	kind:member	line:54
+shader	../env/share/kivy-examples/kinect/kinectviewer.py	/^    shader = StringProperty("rgb")$/;"	kind:variable	line:172
+shader_btn	../env/share/kivy-examples/shader/shadertree.py	/^    shader_btn = ObjectProperty(None)$/;"	kind:variable	line:167
+shader_widget	../env/share/kivy-examples/shader/shadertree.py	/^    shader_widget = ObjectProperty(None)$/;"	kind:variable	line:168
+shadertree.py	../env/share/kivy-examples/shader/shadertree.py	1;"	kind:file	line:1
+shape	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    shape = ObjectProperty()$/;"	kind:variable	line:65
+shape_collide	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    def shape_collide(self, x, y, *args):$/;"	kind:member	line:166
+shape_image	../env/share/kivy-examples/miscellaneous/shapedwindow.py	/^    shape_image = StringProperty('', force_dispatch=True)$/;"	kind:variable	line:80
+shape_len	../env/share/kivy-examples/miscellaneous/shapecollisions.py	/^    shape_len = NumericProperty(0)$/;"	kind:variable	line:67
+shapecollisions.py	../env/share/kivy-examples/miscellaneous/shapecollisions.py	1;"	kind:file	line:1
+shapedwindow.py	../env/share/kivy-examples/miscellaneous/shapedwindow.py	1;"	kind:file	line:1
+shorten	../env/share/kivy-examples/widgets/label_sizing.py	/^    shorten = BooleanProperty(False)$/;"	kind:variable	line:152
+shorten_text.py	../env/share/kivy-examples/widgets/shorten_text.py	1;"	kind:file	line:1
+show_bubble	../env/share/kivy-examples/widgets/bubble_test.py	/^    def show_bubble(self, *l):$/;"	kind:member	line:40
+show_error	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def show_error(self, e):$/;"	kind:member	line:172
+show_kv	../env/share/kivy-examples/demo/kivycatalog/main.py	/^    def show_kv(self, instance, value):$/;"	kind:member	line:125
+show_load	../env/share/kivy-examples/RST_Editor/main.py	/^    def show_load(self):$/;"	kind:member	line:29
+show_load	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    def show_load(self):$/;"	kind:function	line:211
+show_popup	../env/share/kivy-examples/widgets/popup_with_kv.py	/^    def show_popup(self, b):$/;"	kind:member	line:30
+show_save	../env/share/kivy-examples/RST_Editor/main.py	/^    def show_save(self):$/;"	kind:member	line:35
+show_selected_value	../env/share/kivy-examples/widgets/spinner.py	/^def show_selected_value(spinner, text):$/;"	kind:function	line:11
+show_sourcecode	../env/share/kivy-examples/demo/showcase/main.py	/^    show_sourcecode = BooleanProperty(False)$/;"	kind:variable	line:53
+show_tab	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^    def show_tab(self):$/;"	kind:member	line:287
+showcase_anchorlayout	../env/share/kivy-examples/demo/showcase/main.py	/^    def showcase_anchorlayout(self, layout):$/;"	kind:member	line:220
+showcase_boxlayout	../env/share/kivy-examples/demo/showcase/main.py	/^    def showcase_boxlayout(self, layout):$/;"	kind:member	line:165
+showcase_floatlayout	../env/share/kivy-examples/demo/showcase/main.py	/^    def showcase_floatlayout(self, layout):$/;"	kind:member	line:145
+showcase_gridlayout	../env/share/kivy-examples/demo/showcase/main.py	/^    def showcase_gridlayout(self, layout):$/;"	kind:member	line:181
+showcase_stacklayout	../env/share/kivy-examples/demo/showcase/main.py	/^    def showcase_stacklayout(self, layout):$/;"	kind:member	line:199
+shuffle	../env/share/kivy-examples/demo/camera_puzzle.py	/^    def shuffle(self):$/;"	kind:member	line:57
+simplegesture	../env/share/kivy-examples/gestures/gesture_board.py	/^def simplegesture(name, point_list):$/;"	kind:function	line:10
+sin_wobble	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    sin_wobble = NumericProperty(0)$/;"	kind:variable	line:73
+sin_wobble_speed	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    sin_wobble_speed = NumericProperty(0)$/;"	kind:variable	line:74
+size_hint	../env/share/kivy-examples/widgets/spinner.py	/^    size_hint=(None, None), size=(100, 44),$/;"	kind:variable	line:7
+sm	../env/share/kivy-examples/keyboard/main.py	/^    sm = None  # The root screen manager$/;"	kind:variable	line:215
+sort	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def sort(self):$/;"	kind:member	line:94
+sound	../env/share/kivy-examples/audio/main.py	/^    sound = ObjectProperty(None, allownone=True)$/;"	kind:variable	line:29
+source	../env/share/kivy-examples/android/takepicture/main.py	/^    source = StringProperty(None)$/;"	kind:variable	line:41
+source	../env/share/kivy-examples/demo/pictures/main.py	/^    source = StringProperty(None)$/;"	kind:variable	line:47
+source	../env/share/kivy-examples/demo/shadereditor/main.py	/^    source = StringProperty('data\/logo\/kivy-icon-512.png')$/;"	kind:variable	line:95
+source	../env/share/kivy-examples/widgets/colorpicker.py	/^    source = StringProperty(None)$/;"	kind:variable	line:140
+sourcecode	../env/share/kivy-examples/demo/showcase/main.py	/^    sourcecode = StringProperty()$/;"	kind:variable	line:54
+spinner	../env/share/kivy-examples/widgets/spinner.py	/^spinner = Spinner($/;"	kind:variable	line:4
+spinner.py	../env/share/kivy-examples/widgets/spinner.py	1;"	kind:file	line:1
+splitter.py	../env/share/kivy-examples/widgets/splitter.py	1;"	kind:file	line:1
+square	../env/share/kivy-examples/gestures/my_gestures.py	/^square = gdb.str_to_gesture($/;"	kind:variable	line:70
+start	../env/share/kivy-examples/svg/benchmark.py	/^    start = time()$/;"	kind:variable	line:16
+start_anim	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^        def start_anim(_anim, child, in_complete, *lt):$/;"	kind:function	line:250
+startedConnecting	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    def startedConnecting(self, connector):$/;"	kind:member	line:26
+state	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    state = OptionProperty('normal', options=('normal', 'down'))$/;"	kind:variable	line:14
+status	../env/share/kivy-examples/miscellaneous/urlrequest.py	/^    status = NumericProperty()$/;"	kind:variable	line:76
+stencil_canvas.py	../env/share/kivy-examples/canvas/stencil_canvas.py	1;"	kind:file	line:1
+svg	../env/share/kivy-examples/svg/benchmark.py	/^    svg = Svg(filename)$/;"	kind:variable	line:17
+switch_to	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	/^    def switch_to(self, header):$/;"	kind:member	line:247
+tabbed_panel_showcase.py	../env/share/kivy-examples/widgets/tabbed_panel_showcase.py	1;"	kind:file	line:1
+tabbedpanel.py	../env/share/kivy-examples/widgets/tabbedpanel.py	1;"	kind:file	line:1
+take_picture	../env/share/kivy-examples/android/takepicture/main.py	/^    def take_picture(self):$/;"	kind:member	line:57
+template_count	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    template_count = NumericProperty(0)$/;"	kind:variable	line:30
+tesselate.py	../env/share/kivy-examples/canvas/tesselate.py	1;"	kind:file	line:1
+testtext	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    testtext = StringProperty()$/;"	kind:variable	line:16
+tex_coords	../env/share/kivy-examples/canvas/texture.py	/^    tex_coords = ListProperty([0, 0, 1, 0, 1, 1, 0, 1])$/;"	kind:variable	line:27
+text	../env/share/kivy-examples/application/app_with_config.py	/^    text = ConfigParserProperty($/;"	kind:variable	line:30
+text	../env/share/kivy-examples/demo/multistroke/helpers.py	/^    text = StringProperty('')$/;"	kind:variable	line:23
+text	../env/share/kivy-examples/miscellaneous/on_textedit_event.py	/^    text = StringProperty()$/;"	kind:variable	line:27
+text	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    text = StringProperty()$/;"	kind:variable	line:24
+text	../env/share/kivy-examples/widgets/spinner.py	/^    text='Home',$/;"	kind:variable	line:5
+text_input	../env/share/kivy-examples/RST_Editor/main.py	/^    text_input = ObjectProperty(None)$/;"	kind:variable	line:17
+text_input	../env/share/kivy-examples/RST_Editor/main.py	/^    text_input = ObjectProperty(None)$/;"	kind:variable	line:24
+textalign.py	../env/share/kivy-examples/widgets/textalign.py	1;"	kind:file	line:1
+textbox	../env/share/kivy-examples/frameworks/twisted/echo_client_app.py	/^    textbox = None$/;"	kind:variable	line:47
+textinput.py	../env/share/kivy-examples/widgets/textinput.py	1;"	kind:file	line:1
+texture	../env/share/kivy-examples/canvas/fbo_canvas.py	/^    texture = ObjectProperty(None, allownone=True)$/;"	kind:variable	line:25
+texture	../env/share/kivy-examples/canvas/repeat_texture.py	/^    texture = ObjectProperty()$/;"	kind:variable	line:56
+texture	../env/share/kivy-examples/canvas/texture.py	/^    texture = ObjectProperty(None)$/;"	kind:variable	line:26
+texture	../env/share/kivy-examples/shader/shadertree.py	/^    texture = ObjectProperty(None)$/;"	kind:variable	line:99
+texture	../env/share/kivy-examples/widgets/fbowidget.py	/^    texture = ObjectProperty(None, allownone=True)$/;"	kind:variable	line:44
+texture.py	../env/share/kivy-examples/canvas/texture.py	1;"	kind:file	line:1
+texture_background	../env/share/kivy-examples/widgets/sequenced_images/uix/custom_button.py	/^    texture_background = ObjectProperty(None)$/;"	kind:variable	line:21
+texture_init	../env/share/kivy-examples/canvas/texture.py	/^    def texture_init(self, *args):$/;"	kind:member	line:34
+texture_wrap	../env/share/kivy-examples/canvas/texture.py	/^    texture_wrap = StringProperty('clamp_to_edge')$/;"	kind:variable	line:28
+time	../env/share/kivy-examples/demo/showcase/main.py	/^    time = NumericProperty(0)$/;"	kind:variable	line:52
+title	../env/share/kivy-examples/demo/multistroke/helpers.py	/^    title = StringProperty('Information')$/;"	kind:variable	line:22
+title	../env/share/kivy-examples/demo/multistroke/settings.py	/^    title = StringProperty('<No title set>')$/;"	kind:variable	line:21
+title	../env/share/kivy-examples/demo/multistroke/settings.py	/^    title = StringProperty('<No title set>')$/;"	kind:variable	line:26
+title	../env/share/kivy-examples/demo/touchtracer/main.py	/^    title = 'Touchtracer'$/;"	kind:variable	line:145
+toggle_selected	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def toggle_selected(self, *l):$/;"	kind:member	line:42
+toggle_source_code	../env/share/kivy-examples/demo/showcase/main.py	/^    def toggle_source_code(self):$/;"	kind:member	line:126
+touch	../env/share/kivy-examples/widgets/effectwidget3_advanced.py	/^    touch = ListProperty([0.0, 0.0])$/;"	kind:variable	line:26
+twistd_app.py	../env/share/kivy-examples/frameworks/twisted/twistd_app.py	1;"	kind:file	line:1
+two_panes.py	../env/share/kivy-examples/miscellaneous/two_panes.py	1;"	kind:file	line:1
+txt_input	../env/share/kivy-examples/widgets/unicode_textinput.py	/^    txt_input = ObjectProperty(None)$/;"	kind:variable	line:126
+type	../env/share/kivy-examples/demo/multistroke/settings.py	/^    type = OptionProperty('int', options=['float', 'int'])$/;"	kind:variable	line:51
+unicode_app	../env/share/kivy-examples/widgets/unicode_textinput.py	/^class unicode_app(App):$/;"	kind:class	line:221
+unicode_textinput.py	../env/share/kivy-examples/widgets/unicode_textinput.py	1;"	kind:file	line:1
+unload_gestures	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def unload_gestures(self, *l):$/;"	kind:member	line:126
+update	../env/share/kivy-examples/tutorials/pong/main.py	/^    def update(self, dt):$/;"	kind:member	line:47
+update	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    def update(self, dt):$/;"	kind:member	line:27
+update	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    def update(self, dt):$/;"	kind:member	line:40
+update	../env/share/kivy-examples/widgets/recycleview/basic_data.py	/^    def update(self, value):$/;"	kind:member	line:103
+update_compass	../env/share/kivy-examples/android/compass/main.py	/^    def update_compass(self, *args):$/;"	kind:member	line:45
+update_depth_range	../env/share/kivy-examples/kinect/kinectviewer.py	/^        def update_depth_range(instance, value):$/;"	kind:function	line:242
+update_effectwidget	../env/share/kivy-examples/widgets/effectwidget.py	/^    def update_effectwidget(self, *args):$/;"	kind:member	line:40
+update_glsl	../env/share/kivy-examples/3Drendering/main.py	/^    def update_glsl(self, delta):$/;"	kind:member	line:46
+update_glsl	../env/share/kivy-examples/canvas/multitexture.py	/^    def update_glsl(self, *largs):$/;"	kind:member	line:90
+update_glsl	../env/share/kivy-examples/shader/plasma.py	/^    def update_glsl(self, *largs):$/;"	kind:member	line:70
+update_glsl	../env/share/kivy-examples/shader/rotated.py	/^    def update_glsl(self, *largs):$/;"	kind:member	line:80
+update_glsl	../env/share/kivy-examples/shader/shadertree.py	/^    def update_glsl(self, *largs):$/;"	kind:member	line:124
+update_points	../env/share/kivy-examples/canvas/mesh_manipulation.py	/^    def update_points(self, *args):$/;"	kind:member	line:81
+update_points_animation	../env/share/kivy-examples/canvas/lines.py	/^    def update_points_animation(self, dt):$/;"	kind:member	line:272
+update_shader	../env/share/kivy-examples/demo/shadereditor/main.py	/^    def update_shader(self, *args):$/;"	kind:member	line:76
+update_sourcecode	../env/share/kivy-examples/demo/showcase/main.py	/^    def update_sourcecode(self):$/;"	kind:member	line:138
+update_template_count	../env/share/kivy-examples/demo/multistroke/gesturedatabase.py	/^    def update_template_count(self, *l):$/;"	kind:member	line:51
+update_touch_label	../env/share/kivy-examples/demo/touchtracer/main.py	/^    def update_touch_label(self, label, touch):$/;"	kind:member	line:136
+update_transformation	../env/share/kivy-examples/kinect/kinectviewer.py	/^    def update_transformation(self, *largs):$/;"	kind:member	line:212
+urlrequest.py	../env/share/kivy-examples/miscellaneous/urlrequest.py	1;"	kind:file	line:1
+valign	../env/share/kivy-examples/widgets/label_sizing.py	/^    valign = StringProperty('bottom')$/;"	kind:variable	line:150
+value	../env/share/kivy-examples/demo/multistroke/settings.py	/^    value = BooleanProperty(False)$/;"	kind:variable	line:32
+value	../env/share/kivy-examples/demo/multistroke/settings.py	/^    value = NumericProperty(0)$/;"	kind:variable	line:52
+value	../env/share/kivy-examples/demo/multistroke/settings.py	/^    value = StringProperty('')$/;"	kind:variable	line:36
+values	../env/share/kivy-examples/widgets/spinner.py	/^    values=('Home', 'Work', 'Other', 'Custom'),$/;"	kind:variable	line:6
+velocity	../env/share/kivy-examples/tutorials/pong/main.py	/^    velocity = ReferenceListProperty(velocity_x, velocity_y)$/;"	kind:variable	line:32
+velocity	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^    velocity = ReferenceListProperty(velocity_x, velocity_y)$/;"	kind:variable	line:10
+velocity	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    velocity = ReferenceListProperty(velocity_x, velocity_y)$/;"	kind:variable	line:14
+velocity	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    velocity = ReferenceListProperty(velocity_x, velocity_y)$/;"	kind:variable	line:25
+velocity_x	../env/share/kivy-examples/tutorials/pong/main.py	/^    velocity_x = NumericProperty(0)$/;"	kind:variable	line:30
+velocity_x	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^    velocity_x = NumericProperty(0)$/;"	kind:variable	line:8
+velocity_x	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    velocity_x = NumericProperty(0)$/;"	kind:variable	line:12
+velocity_x	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    velocity_x = NumericProperty(0)$/;"	kind:variable	line:23
+velocity_y	../env/share/kivy-examples/tutorials/pong/main.py	/^    velocity_y = NumericProperty(0)$/;"	kind:variable	line:31
+velocity_y	../env/share/kivy-examples/tutorials/pong/steps/step3/main.py	/^    velocity_y = NumericProperty(0)$/;"	kind:variable	line:9
+velocity_y	../env/share/kivy-examples/tutorials/pong/steps/step4/main.py	/^    velocity_y = NumericProperty(0)$/;"	kind:variable	line:13
+velocity_y	../env/share/kivy-examples/tutorials/pong/steps/step5/main.py	/^    velocity_y = NumericProperty(0)$/;"	kind:variable	line:24
+videoplayer.py	../env/share/kivy-examples/widgets/videoplayer.py	1;"	kind:file	line:1
+view	../env/share/kivy-examples/tutorials/notes/final/main.py	/^    def view(self):$/;"	kind:member	line:46
+viewer	../env/share/kivy-examples/demo/shadereditor/main.py	/^    viewer = ObjectProperty(None)$/;"	kind:variable	line:110
+visualizer_deselect	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def visualizer_deselect(self, *l):$/;"	kind:member	line:117
+visualizer_select	../env/share/kivy-examples/demo/multistroke/historymanager.py	/^    def visualizer_select(self, visualizer, *l):$/;"	kind:member	line:108
+volume	../env/share/kivy-examples/audio/main.py	/^    volume = NumericProperty(1.0)$/;"	kind:variable	line:30
+vs	../env/share/kivy-examples/demo/shadereditor/main.py	/^    vs = StringProperty(None)$/;"	kind:variable	line:69
+wheel	../env/bin/wheel	1;"	kind:file	line:1
+writer	../env/bin/rst2odt.py	/^writer = Writer()$/;"	kind:variable	line:26
+zipScatter	../env/share/kivy-examples/widgets/sequenced_images/main.py	/^class zipScatter(Scatter):$/;"	kind:class	line:17
