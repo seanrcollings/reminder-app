@@ -1,0 +1,20 @@
+
+<Reminder@BoxLayout>
+    orientation: 'horizontal'
+    Label:
+        text: root.text
+    # Label: 
+    #     text: str(root.value)
+
+<ReminderGrid>:
+    orientation: 'vertical'
+        
+    RemindersRecycle:
+        viewclass: 'Reminder'
+        RecycleBoxLayout:
+            default_size: None, dp(56)
+            default_size_hint: 1, None
+            size_hint_y: None
+            height: self.minimum_height
+            orientation: 'vertical'
+        
