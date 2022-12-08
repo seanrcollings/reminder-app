@@ -1,7 +1,7 @@
 wheel==0.33.6
 setuptools==41.2.0
 cython==0.26.0
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 docutils==0.15.2
 idna==2.8
