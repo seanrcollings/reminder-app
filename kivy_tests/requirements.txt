@@ -1,5 +1,5 @@
 wheel==0.33.6
-setuptools==41.2.0
+setuptools==65.5.1
 cython==0.26.0
 certifi==2019.6.16
 chardet==3.0.4
